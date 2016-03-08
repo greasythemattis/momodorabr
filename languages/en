@@ -137,7 +137,7 @@ sys_dia25 Galho Rasgado obtido.
 sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
-sys_dia29 Distintivo de Avelã recebido!
+sys_dia29 Distintivo marrom recebido!
 sys_dia30 Passiflora recebida!
 sys_dia31 MAPA COMPLETO:
 sys_dia32 Sim
@@ -376,7 +376,7 @@ eri02_dia10 Estou recuando para a floresta#no limite da região.||||||||||||||||
 
 eri03_dia01 Ah,||||||||||||| como vai?
 eri03_dia02 Sei.#Você veio de longe,||||||||||||| e até mesmo#a sua terra-natal está sendo afetada pela maldição...
-eri03_dia03 Ei!#£Esse Distintivo Hazel!£
+eri03_dia03 Ei!#£Esse Distintivo marrom!£
 eri03_dia04 Me pergunto se você trocaria ele#por este item especial que eu tenho?
 eri03_dia05 Obrigado.
 eri03_dia06 Se você mudar de ideia,#||||||||||||||||Estarei esperando.
@@ -541,7 +541,7 @@ item_name_21 Anel da Sinceridade
 item_name_22 Moeda Pequena
 item_name_23 Remendo de Bakman
 item_name_24 Esfera Felina
-item_name_25 Brasão Marrom
+item_name_25 Distintivo Marrom
 item_name_26 Galho Rasgado
 item_name_27 Chave do Monastério
 item_name_28 
