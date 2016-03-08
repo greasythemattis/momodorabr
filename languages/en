@@ -598,7 +598,7 @@ item_effect_25 Item chave.
 item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por morte.
 item_effect_27 Item Chave.
 item_effect_28 Item Chave.
-item_effect_29 Item Chave. permite warping quando estiver rezando.
+item_effect_29 Item Chave. permite teleportar quando estiver rezando.
 item_effect_30 
 item_effect_31 Efeito Ativo: aumenta visibilidade de áreas escuras.
 item_effect_32 Item Chave.
@@ -622,7 +622,7 @@ item_effect_49 Item chave.
 item_effect_50 Item chave. libera um novo nível de carregamento com o arco.
 item_effect_51 Item chave. aumenta velocidade do carregamento de flechas.
 item_effect_52 Item chave. permite se esquivar no meio do ar.
-item_effect_53 Item chave. permite warping enquanto reza.
+item_effect_53 Item chave. permite teleportar enquanto reza.
 
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
 item_lore_02 Colar Pequenininho.#Aqueles que o usarem encontraram força em sua#estranha benção, esperando recuperar aquilo que foi perdido.
