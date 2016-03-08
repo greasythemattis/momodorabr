@@ -138,7 +138,7 @@ sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
 sys_dia29 Distintivo da Hazel recebido!
-sys_dia30 Passiflora recebida!
+sys_dia30 Maracujá recebido!
 sys_dia31 MAPA COMPLETO:
 sys_dia32 Sim
 sys_dia33 Não
@@ -158,7 +158,7 @@ sys_dia46 Banhar a folha de Acer no chá de Hibisco?
 sys_dia47 Folha Fresca da Primavera obtida.
 sys_dia48 Vento Selado obtido.
 sys_dia49 Flechas Pesadas obtidas.
-sys_dia50 Passiflora obtida.
+sys_dia50 Maracujá obtido.
 sys_dia51 Lenço Ensanguentado obtido.
 sys_dia52 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de desviar no ar!
 sys_dia53 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
@@ -521,25 +521,25 @@ dev_dia13 thernz: Eu não fiz nada para esse jogo.
 item_name_01 Anel Decorado
 item_name_02 Colar do Sacrifício
 item_name_04 Campânula
-item_name_05 Amuleto Astral
+item_name_05 Talismã Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
 item_name_09 Imã
 item_name_10 Campânula Podre
-item_name_11 Lagrima de Fada
+item_name_11 Lágrima de Fada
 item_name_12 
 item_name_13 Frasco da Impureza
 item_name_14 Maracujá
 item_name_15 Semente de Cristal
 item_name_16 Medalha da Equivalência
-item_name_17 Tainted Missive
+item_name_17 Carta Contaminada
 item_name_18 Sachê Negro
 item_name_19 
 item_name_20 
 item_name_21 Anel de Candor
 item_name_22 Moeda Pequena
-item_name_23 Bakman Patch
+item_name_23 Remendo de Bakman
 item_name_24 Esfera de Gato
 item_name_25 Crachá Marrom
 item_name_26 Galho Rasgado
@@ -564,7 +564,7 @@ item_name_44 Incensário de Bolso
 item_name_45 Pedras Zodiacais
 item_name_46 Flechas Rápidas
 item_name_47 Flechas Perfurantes
-item_name_48 Ventania Selada
+item_name_48 Vento Selado
 item_name_49 Chave Cinza
 item_name_50 Fragmento de Crista
 item_name_51 Fragmento de Crista
