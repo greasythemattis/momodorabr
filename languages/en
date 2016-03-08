@@ -580,9 +580,9 @@ item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por morte, mas#inimigos não irão dropar dinhelas.
 item_effect_09 Efeito Passivo: atrai dinhela.
 item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
-item_effect_11 Efeito Passivo: raises user's resistance to status ailments.
+item_effect_11 Efeito Passivo: aumenta resistência do usúario contra doenças.
 item_effect_12
-item_effect_13 Efeito Passivo: restores HP whenever user is poisoned.
+item_effect_13 Efeito Passivo: restaura HP sempre que o usúario estiver envenenado.
 item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
