@@ -1,207 +1,207 @@
-
-header_info MOMODORA IV GAME TEXT. ENGLISH LANGUAGE
-
+ 
+header_info MOMODORA IV GAME TEXT. Portuguese LANGUAGE
+ 
 // Symbology info
 // # --- > line break
 // | --- > pause in text (use many in a row)
 // @ --- > grey text
 // £ --- > shakey letters
-
+ 
 // Languages - DO NOT TRANSLATE THESE //
 sys_lang01 English
 sys_lang02 Japanese
 sys_lang03 Español
 sys_lang04 Français
 sys_lang05 Deutsch
-
-
+ 
+ 
 // UI / System Messages //
-sys_ui01 Press Any Button
-sys_ui02 Empty file
-sys_ui03 Slot
-sys_ui04 -Select Control Type-
-sys_ui05 FULLSCREEN
-sys_ui06 -Paused-
-sys_ui07 RESUME
+sys_ui01 Pressione qualquer tecla
+sys_ui02 Arquivo vazio
+sys_ui03 Arquivo
+sys_ui04 -Selecione o tipo de controle-
+sys_ui05 TELA CHEIA
+sys_ui06 -Pausado-
+sys_ui07 CONTINUAR
 sys_ui08
-sys_ui09 RETURN TO TITLE SCREEN
-sys_ui10 QUIT
-sys_ui11 -SETTINGS-
-sys_ui12 SOUND VOLUME
-sys_ui13 MUSIC VOLUME
-sys_ui14 SCREEN RESOLUTION 
-sys_ui15 GRAPHICAL QUALITY
-sys_ui16 Low
-sys_ui17 Medium
-sys_ui18 High
-sys_ui19 LANGUAGE
-sys_ui20 CONTROL TYPE
-sys_ui21 APPLY CHANGES
-sys_ui22 BACK
-
+sys_ui09 RETORNAR A TELA DE INÍCIO
+sys_ui10 SAIR
+sys_ui11 -CONFIGURAÇÕES-
+sys_ui12 VOLUME DE SOM
+sys_ui13 VOLUME DE MÚSICA
+sys_ui14 RESOLUÇÃO DE TELA
+sys_ui15 QUALIDADE GRÁFICA
+sys_ui16 Baixa
+sys_ui17 Média
+sys_ui18 Alta
+sys_ui19 IDIOMA
+sys_ui20 TIPO DE CONTROLE
+sys_ui21 APLICAR MUDANÇAS
+sys_ui22 VOLTAR
+ 
 // Difficulty modes and their descriptions; Game over messages
-sys_ui23 -Select Difficulty-
-sys_ui24 Easy
+sys_ui23 -Selecione a Dificuldade-
+sys_ui24 Fácil
 sys_ui25 Normal
-sys_ui26 Hard
-sys_ui27 Insane
-sys_ui28 For people who aren't used to playing videogames.
-sys_ui29 For people who are used to playing sidecrolling games.
-sys_ui30 For people who want a tougher challenge! 
-sys_ui31 Don't even try this.
-sys_ui32 YOU DIED
-sys_ui33 RETRY
-
+sys_ui26 Difícil
+sys_ui27 Insana
+sys_ui28 Para pessoas que não são acostumadas a jogar videogames.
+sys_ui29 Para pessoas acostumadas com jogos de plataforma.
+sys_ui30 Para pessoas que querem um desafio!
+sys_ui31 Nem tente isso.
+sys_ui32 VOCÊ MORREU
+sys_ui33 TENTAR NOVAMENTE
+ 
 // Pause menu
-sys_ui34 EQUIPMENT
-sys_ui35 KEY ITEMS
-sys_ui36 MAP
-sys_ui37 SETTINGS
-sys_ui38 Select
-sys_ui39 Confirm
-sys_ui40 Cancel
-sys_ui41 Close
-sys_ui42 Keyboard
-sys_ui43 Controller
-sys_ui44 Controller (Alt.)
-sys_ui45 Active Slots
-sys_ui46 Passive Slots
-sys_ui47 Save
-sys_ui48 Warp
-sys_ui49 Inventory
+sys_ui34 EQUIPMENTO
+sys_ui35 ITENS CHAVE
+sys_ui36 MAPA
+sys_ui37 CONFIGURAÇÕES
+sys_ui38 Selecionar
+sys_ui39 Confirmar
+sys_ui40 Cancelar
+sys_ui41 Fechar
+sys_ui42 Teclado
+sys_ui43 Controle
+sys_ui44 Controle (Alt.)
+sys_ui45 Itens Ativos
+sys_ui46 Itens Passivos
+sys_ui47 Salvar
+sys_ui48 Teleportar
+sys_ui49 Inventário
  
 // Misc System Messages 1 //
-sys_ui50 Delete this save file?
-sys_ui51 Total playtime:
-sys_ui52 Load
-sys_ui53 Delete
-sys_ui54 Start
-sys_ui55 Settings
-sys_ui56 Quit
-sys_ui57 Key Items
-sys_ui58 SCREENSHAKE
-sys_ui59 DEFAULT
-sys_ui60 ON
-sys_ui61 OFF
+sys_ui50 Deletar esse arquivo?
+sys_ui51 Tempo total de jogo:
+sys_ui52 Carregar
+sys_ui53 Deletar
+sys_ui54 Começar
+sys_ui55 Configurações
+sys_ui56 Sair
+sys_ui57 Itens chave
+sys_ui58 BALANÇAR DE TELA
+sys_ui59 PADRÃO
+sys_ui60 LIGADO
+sys_ui61 DESLIGADO
  
 // Tutorial Messages //
-sys_tut01 Movement
-sys_tut02 Jump
-sys_tut03 Go through thin platforms
-sys_tut04 Open Menu
-sys_tut05 Melee attack
-sys_tut06 Ranged attack. Hold the button for a charged shot
-sys_tut07 Roll behind enemies
-sys_tut08 Hit Bells to save progress and restore your items
-sys_tut09 Use Equipped Item
-sys_tut10 
-sys_tut11 
-sys_tut12 Movement / Selection
-sys_tut13 Jump
-sys_tut14 Melee attack
-sys_tut15 Ranged attack
-sys_tut16 Roll
+sys_tut01 Movimento
+sys_tut02 Pular
+sys_tut03 Atravessar plataformas
+sys_tut04 Abrir menu
+sys_tut05 Ataque primário
+sys_tut06 Ataque à distância. Segure a tecla para o ataque carregado
+sys_tut07 Rolar atrás dos inimigos
+sys_tut08 Bata nos sinos para salvar seu jogo e recarregar seus itens
+sys_tut09 Usar item equipado
+sys_tut10
+sys_tut11
+sys_tut12 Movimento / Seleção
+sys_tut13 Pular
+sys_tut14 Ataque primário
+sys_tut15 Ataque à distância
+sys_tut16 Rolar
 sys_tut17 Item
-sys_tut18 Switch Item
+sys_tut18 Mudar de Item
 sys_tut19 Menu
-sys_tut20 Jump again mid-air to reach greater heights!
-
+sys_tut20 Pule novamente no ar para atingir novos limites!
+ 
 // Misc System Messages 2 //
-save_dia Progress saved!
-sys_dia00 
-sys_dia01 -POISONED!-
-sys_dia02 -CURSED!-
-sys_dia03 You found an Ivory Bug!
-sys_dia04 Got Bellflower.
-sys_dia05 Got Astral Charm.
-sys_dia06 Got Edea's Pearl.
-sys_dia07 Got Bakman Patch.
-sys_dia08 Got Tainted Missive.
-sys_dia09 Got Magnet Stone.
-sys_dia10 You found a Vitality Fragment!
-sys_dia11 
-sys_dia12 Got Monastery Key.
-sys_dia13 Does not open from this side
-sys_dia14 Locked
-sys_dia15 Used Monastery Key.
-sys_dia16 Talk
-sys_dia17 Pray
-sys_dia18 Got Soft Tissue.
-sys_dia19 Got Garden Key.
-sys_dia20 
-sys_dia21 Got Dirty Shroom.
-sys_dia22 
-sys_dia23 Used Garden Key.
-sys_dia24 Got Cat Sphere.
-sys_dia25 Got Torn Branch.
-sys_dia26 Got Sparse Thread.
-sys_dia27 Inspect
-sys_dia28 Received Bellflower!
-sys_dia29 Received Hazel Badge!
-sys_dia30 Received Passiflora!
-sys_dia31 MAP COMPLETION:
-sys_dia32 Yes
-sys_dia33 No
-sys_dia34 It's a golden bell.
-sys_dia35 Demo Version
-sys_dia36 Thank you for trying this demo version!
-sys_dia37 #Your HP has been increased.
-sys_dia38 #But your HP is already maxed.
+save_dia Progresso Salvo!
+sys_dia00
+sys_dia01 -ENVENENADA!-
+sys_dia02 -AMALDIÇOADA!-
+sys_dia03 Você achou um Inseto de Marfim!
+sys_dia04 Campânula obtida.
+sys_dia05 Talismã Astral obtido.
+sys_dia06 Pérola da Edea obtida.
+sys_dia07 Remendo de Bakman obtido.
+sys_dia08 Carta Manchada obtida.
+sys_dia09 Pedra Magnética obtida.
+sys_dia10 Você achou um Fragmento de Vitalidade!
+sys_dia11
+sys_dia12 Chave do Monastério obtida.
+sys_dia13 Não abre deste lado
+sys_dia14 Fechado
+sys_dia15 Chave do Monastério utilizada.
+sys_dia16 Falar
+sys_dia17 Rezar
+sys_dia18 Lenço Macio obtido.
+sys_dia19 Chave do Jardim obtida.
+sys_dia20
+sys_dia21 Cogumelo Sujo obtido.
+sys_dia22
+sys_dia23 Chave do Jardim utilizada.
+sys_dia24 Esfera Felina obtida.
+sys_dia25 Ramo em pedaços obtido.
+sys_dia26 Fio Escasso obtido.
+sys_dia27 Inspecionar
+sys_dia28 Campânula recebida!
+sys_dia29 Distintivo da Hazel recebido!
+sys_dia30 Passiflora recebida!
+sys_dia31 MAPA COMPLETO:
+sys_dia32 Sim
+sys_dia33 Não
+sys_dia34 É um sino dourado.
+sys_dia35 Versão Demo
+sys_dia36 Obrigado por jogar essa versão Demo!
+sys_dia37 #Sua HP aumentou.
+sys_dia38 #Mas a sua HP já está maximizada.
 sys_dia39 ?????
-sys_dia40 Got Cinder Key.
-sys_dia41 Got Pocket Incensory. 
-sys_dia42 Karst Crest needed to pass
-sys_dia43 Used Cinder Key.
-sys_dia44 Got Black Sachet.
-sys_dia45 This skull appears to be laughing.
-sys_dia46 Bathe Maple Leaf in Hibisco tea?
-sys_dia47 Got Fresh Spring Leaf.
-sys_dia48 Got Sealed Wind.
-sys_dia49 Got Heavy Arrows.
-sys_dia50 Got Passiflora.
-sys_dia51 Got Bloodstained Tissue.
-sys_dia52 You found a Crest Fragment!#Its essence grants you the ability to dodge mid-air!
-sys_dia53 You found a Crest Fragment!#Its essence grants you the ability to charge arrows faster!
-sys_dia54 You found a Crest Fragment!#Its essence grants you the ability to a new bow charge level!
-sys_dia55 You found a Crest Fragment!#Its essence grants you the ability to warp when praying!
-sys_dia56 Unlocked 'Insane' difficulty!
-sys_dia57 [None]
-
+sys_dia40 Chave Cremada obtida.
+sys_dia41 Incensório obtido.
+sys_dia42 Brasão de Karst necessário para passar
+sys_dia43 Chave Cremada utilizada.
+sys_dia44 Sachê Negro obtido.
+sys_dia45 Essa caveira parece estar rindo.
+sys_dia46 Banhar a folha de Acer no chá de Hibisco?
+sys_dia47 Folha Fresca da Primavera obtida.
+sys_dia48 Vento Selado obtido.
+sys_dia49 Flechas Pesadas obtidas.
+sys_dia50 Passiflora obtida.
+sys_dia51 Lenço Ensanguentado obtido.
+sys_dia52 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de desviar no ar!
+sys_dia53 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
+sys_dia54 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
+sys_dia55 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
+sys_dia56 Dificuldade 'Insana' desbloqueada!
+sys_dia57 [Nulo]
+ 
 // Area names //
-sys_area01 Sacred Ordalia Grove
-sys_area02 Karst City
-sys_area03 Forlorn Monastery
-sys_area04 Subterranean Grave
-sys_area05 Whiteleaf Memorial Park
-sys_area06 Cinder Chambers
-sys_area07 Royal Pinacotheca
-sys_area08 Karst Castle
+sys_area01 Bosque Sagrado da Ordalia
+sys_area02 Cidade de Karst
+sys_area03 Monastério desamparado
+sys_area04 Túmulo Subterrâneo
+sys_area05 Parque Memorial Whiteleaf
+sys_area06 Câmaras de Cinzas
+sys_area07 Pinacoteca Real
+sys_area08 Castelo de Karst
 sys_area09 Frore Ciele
-
+ 
 // Boss names //
-sys_boss01 Arthropod Demon Edea
-sys_boss02 Pardoner Fennel
+sys_boss01 Edea, o Demônio Artrópode
+sys_boss02 Fennel, a Indulgente
 sys_boss03 Moka
-sys_boss04 Lubella, the Witch of Decay
-sys_boss05 Derelict Frida
-sys_boss06 Archpriestess Choir
-sys_boss07 Heretical Arsonist
-sys_boss08 Royal Huntress Magnolia
-sys_boss09 Duchess Lupiar
-sys_boss10 Accurst Queen of Karst
-
+sys_boss04 Lubella, Bruxa da Ruína
+sys_boss05 Frida, a Negligente
+sys_boss06 Arquiduquesa Choir
+sys_boss07 Herege Piromaníaco
+sys_boss08 Magnolia, a Caçadora Real
+sys_boss09 Duquesa Lupiar
+sys_boss10 Accurst, Rainha de Karst
+ 
 // Ending strings //
 sys_end01 STAFF ROLL
-sys_end02 Directed and Designed by
-sys_end03 Programming
-sys_end04 Art
-sys_end05 Music and Audio
-sys_end06 Voices
-sys_end07 Patreon Supporters
-sys_end08 Special Thanks
-sys_end09 Thank you for playing!
-sys_end10 The End
-sys_end11 Localization
+sys_end02 Direção e design por
+sys_end03 Programação
+sys_end04 Arte
+sys_end05 Música e Aúdio
+sys_end06 Vozes
+sys_end07 Patronos do Patreon
+sys_end08 Agradecimentos especiais
+sys_end09 Obrigado por jogar!
+sys_end10 O Fim
+sys_end11 Localização
 
 // NPC Messages //
 intro_npc_dia1 I'm afraid this is as far as#I can take you.
