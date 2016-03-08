@@ -92,7 +92,7 @@ sys_tut04 Abrir menu
 sys_tut05 Ataque primário
 sys_tut06 Ataque à distância. Segure a tecla para o ataque carregado
 sys_tut07 Rolar atrás dos inimigos
-sys_tut08 Bata nos sinos para salvar seu jogo e recarregar seus itens
+sys_tut08 Bata nos Sinos para salvar seu jogo e recarregar seus itens
 sys_tut09 Usar item equipado
 sys_tut10
 sys_tut11
@@ -114,7 +114,7 @@ sys_dia02 -AMALDIÇOADA!-
 sys_dia03 Você achou um Inseto de Marfim!
 sys_dia04 Campânula obtida.
 sys_dia05 Talismã Astral obtido.
-sys_dia06 Pérola da Edea obtida.
+sys_dia06 Pérola de Edea obtida.
 sys_dia07 Remendo de Bakman obtido.
 sys_dia08 Carta Manchada obtida.
 sys_dia09 Pedra Magnética obtida.
@@ -525,7 +525,7 @@ item_name_05 Amuleto Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
-item_name_09 Imã
+item_name_09 Pedra Magnética
 item_name_10 Campânula Podre
 item_name_11 Lagrima de Fada
 item_name_12 
@@ -557,7 +557,7 @@ item_name_37 Chave do Jardim
 item_name_38 Fio Escasso
 item_name_39 Amuleto Abençoado
 item_name_40 Flechas Pesadas
-item_name_41 Tecido Manchado de Sangue
+item_name_41 Lenço Ensanguentado
 item_name_42 Folha de Bordo
 item_name_43 Folha Fresca da Primavera
 item_name_44 Incensário de Bolso
