@@ -137,7 +137,7 @@ sys_dia25 Galho Rasgado obtido.
 sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
-sys_dia29 Distintivo da Hazel recebido!
+sys_dia29 Distintivo de Avelã recebido!
 sys_dia30 Passiflora recebida!
 sys_dia31 MAPA COMPLETO:
 sys_dia32 Sim
@@ -160,10 +160,10 @@ sys_dia48 Vento Selado obtido.
 sys_dia49 Flechas Pesadas obtidas.
 sys_dia50 Passiflora obtida.
 sys_dia51 Lenço Ensanguentado obtido.
-sys_dia52 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de desviar no ar!
-sys_dia53 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
-sys_dia54 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
-sys_dia55 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
+sys_dia52 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de desviar no ar!
+sys_dia53 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
+sys_dia54 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
+sys_dia55 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
 sys_dia56 Dificuldade 'Insana' desbloqueada!
 sys_dia57 [Nulo]
  
@@ -533,19 +533,19 @@ item_name_13 Frasco da Impureza
 item_name_14 Passiflora
 item_name_15 Semente de Cristal
 item_name_16 Medalha da Equivalência
-item_name_17 Tainted Missive
+item_name_17 Carta Manchada
 item_name_18 Sachê Negro
 item_name_19 
 item_name_20 
-item_name_21 Anel de Candor
+item_name_21 Anel da Sinceridade
 item_name_22 Moeda Pequena
-item_name_23 Bakman Patch
+item_name_23 Remendo de Bakman
 item_name_24 Esfera Felina
-item_name_25 Crachá Marrom
+item_name_25 Brasão de Avelã
 item_name_26 Galho Rasgado
 item_name_27 Chave do Monastério
 item_name_28 
-item_name_29 Crista de Karst
+item_name_29 Brasão de Karst
 item_name_30 
 item_name_31 Pedaço de Clareza
 item_name_32 Cogumelo Sujo
@@ -566,10 +566,10 @@ item_name_46 Flechas Rápidas
 item_name_47 Flechas Perfurantes
 item_name_48 Ventania Selada
 item_name_49 Chave das Cinzas
-item_name_50 Fragmento de Crista
-item_name_51 Fragmento de Crista
-item_name_52 Fragmento de Crista
-item_name_53 Fragmento de Crista
+item_name_50 Fragmento do Brasão
+item_name_51 Fragmento do Brasão
+item_name_52 Fragmento do Brasão
+item_name_53 Fragmento do Brasão
 
 item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
 item_effect_02 Efeito Passivo: aumenta o ataque em 100% com pouca vida.
