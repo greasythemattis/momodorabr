@@ -133,7 +133,7 @@ sys_dia21 Cogumelo Sujo obtido.
 sys_dia22
 sys_dia23 Chave do Jardim utilizada.
 sys_dia24 Esfera Felina obtida.
-sys_dia25 Ramo em pedaços obtido.
+sys_dia25 Galho Rasgado obtido.
 sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
@@ -148,7 +148,7 @@ sys_dia36 Obrigado por jogar essa versão Demo!
 sys_dia37 #Sua HP aumentou.
 sys_dia38 #Mas a sua HP já está maximizada.
 sys_dia39 ?????
-sys_dia40 Chave Cremada obtida.
+sys_dia40 Chave das Cinzas obtida.
 sys_dia41 Incensório obtido.
 sys_dia42 Brasão de Karst necessário para passar
 sys_dia43 Chave Cremada utilizada.
@@ -188,7 +188,7 @@ sys_boss06 Arquiduquesa Choir
 sys_boss07 Herege Piromaníaco
 sys_boss08 Magnolia, a Caçadora Real
 sys_boss09 Duquesa Lupiar
-sys_boss10 Accurst, Rainha de Karst
+sys_boss10 Rainha Amaldiçoada de Karst
  
 // Ending strings //
 sys_end01 STAFF ROLL
@@ -521,7 +521,7 @@ dev_dia13 thernz: Eu não fiz nada para esse jogo.
 item_name_01 Anel Decorado
 item_name_02 Colar do Sacrifício
 item_name_04 Campânula
-item_name_05 Amuleto Astral
+item_name_05 Talismã Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
@@ -530,7 +530,7 @@ item_name_10 Campânula Podre
 item_name_11 Lagrima de Fada
 item_name_12 
 item_name_13 Frasco da Impureza
-item_name_14 Maracujá
+item_name_14 Passiflora
 item_name_15 Semente de Cristal
 item_name_16 Medalha da Equivalência
 item_name_17 Tainted Missive
@@ -540,7 +540,7 @@ item_name_20
 item_name_21 Anel de Candor
 item_name_22 Moeda Pequena
 item_name_23 Bakman Patch
-item_name_24 Esfera de Gato
+item_name_24 Esfera Felina
 item_name_25 Crachá Marrom
 item_name_26 Galho Rasgado
 item_name_27 Chave do Monastério
@@ -552,7 +552,7 @@ item_name_32 Cogumelo Sujo
 item_name_33 
 item_name_34 Inseto de Marfim
 item_name_35 Fada Violeta
-item_name_36 Tecido Massio
+item_name_36 Lenço Macio
 item_name_37 Chave do Jardim
 item_name_38 Fio Escasso
 item_name_39 Amuleto Abençoado
@@ -565,7 +565,7 @@ item_name_45 Pedras Zodiacais
 item_name_46 Flechas Rápidas
 item_name_47 Flechas Perfurantes
 item_name_48 Ventania Selada
-item_name_49 Chave Cinza
+item_name_49 Chave das Cinzas
 item_name_50 Fragmento de Crista
 item_name_51 Fragmento de Crista
 item_name_52 Fragmento de Crista
@@ -671,7 +671,7 @@ item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição
 item_lore_46 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_47 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_48 Caixa de madeira usada para dominar magias divinas.#Domina Vento Robusto.
-item_lore_49 Usada para fechar as portas da Câmara de Cinder, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas para evitar outros acidentes.
+item_lore_49 Usada para fechar as portas da Câmara de Cinzas, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas para evitar outros acidentes.
 item_lore_50 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
 item_lore_51 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
 item_lore_52 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
