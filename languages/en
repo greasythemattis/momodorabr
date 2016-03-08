@@ -403,207 +403,207 @@ impnpc_dia02 Go away,|||||||||||||||| you stupid girl!
 impnpc_dia03 @Oh,||||||||||||| is that...@#£A dirty shroom...?
 impnpc_dia04 £P-pleasegiveittome?
 impnpc_dia05 Gave the Dirty Shroom.
-impnpc_dia06 Thank you,||||||||||| human girl!
-impnpc_dia07 Here,|||||||||||| take this for your kindness.
-impnpc_dia08 Got Rotten Bellflower.
+impnpc_dia06 Obrigado,||||||||||| garota humana!
+impnpc_dia07 Aqui,|||||||||||| leve isso como gratidão.
+impnpc_dia08 Pegou Campânula Podre.
 impnpc_dia09 ...
 
-himehorn_dia01 £Uu...||||||#Nohorn, ||||||||go home!
-himehorn_dia02 £Aaaa...||||||||||#My cake...
+himehorn_dia01 £Uu...||||||#Nohorn, ||||||||vá para casa!
+himehorn_dia02 £Aaaa...||||||||||#Meu bolo...
 
-askorn01_dia01 £@Cough...
-askorn01_dia02 £I'm sorry, |||||||||who are you?
-askorn01_dia03 I see.#|||||||||||So you are Kaho, huh?#|||||||||||#What a unique name.
-askorn01_dia04 Call me Askorn.##|||||||||||||I take it you are unaware#of the situation of these lands.
-askorn01_dia05 You mentioned your journey#brought you here in search of#the Queen...
-askorn01_dia06 If you really intend to continue further into#the kingdom of Karst,|||||||||| beware.
-askorn01_dia07 A ghastly presence has been#enveloping everything.
-askorn01_dia08 This sacred grove is one of#the few untouched spots.
-askorn01_dia09 Karst City is ahead.#As dangerous as it is now, I must visit it#to search for a beloved one.
-askorn01_dia10 I've been asleep for a hundred years.#||||||||||Enough to make me unfamiliar with#this kingdom.
-askorn01_dia11 In my days, ||||||||||||||||people would come to#this grove and pray to higher deities.
-askorn01_dia12 The people of this kingdom may have lost#their faith, ||||||||||but I still have mine within me.
-askorn01_dia13 Perhaps it was those heretic actions#that led us to the present state of events...?
+askorn01_dia01 £*Tosse...*
+askorn01_dia02 £Desculpe-me, |||||||||quem é você?
+askorn01_dia03 Entendo.#|||||||||||Você é Kaho, huh?#|||||||||||#Que nome único.
+askorn01_dia04 Me chame de Askorn.##|||||||||||||Você parece desconhecer#a situação desta região.
+askorn01_dia05 Você mencionou que tua jornada #trouxe-a aqui a procura#da Rainha...
+askorn01_dia06 Se você realmente pretende continuar indo#ao Reino de Karst,|||||||||| tenha cuidado.
+askorn01_dia07 Uma presença sinistra está se#envolvendo tudo.
+askorn01_dia08 Este bosque sagrado é um dos#poucos lugares intactos.
+askorn01_dia09 A Cidade de Karst é adiante.#Ainda que seja perigosa, eu devo visitá-la#a procura da minha amada.
+askorn01_dia10 Estive dormindo por centenas de anos.#||||||||||Suficiente para me estranhar com #este reino.
+askorn01_dia11 Nos meus tempos, ||||||||||||||||pessoas vinham#a esse bosque e rezavam as grandes divindades.
+askorn01_dia12 As pessoas desse reino podem ter perdido#sua fé, ||||||||||porém ainda tenho a minha comigo.
+askorn01_dia13 Talvez fossem suas condutas hereges#que nos levou ao atual estado de eventos...?
 
-askorn02_dia01 Hey,|||||||||||| Kaho!
-askorn02_dia02 Help me somehow!
-askorn02_dia03 Thank you.
-askorn02_dia04 I was imprisoned here,||||||||||||#and feared all my hope#was lost.
-askorn02_dia05 Now I can resume my search for my wife.
-askorn02_dia06 We both died long ago,|||||||||||||| yet it seems the dead#have crossed the border towards this world.
-askorn02_dia07 There's much left untold.||||||||||||||||||||||||#I plan to reunite with her and#escape this forsaken city.
-askorn02_dia08 I can see you are still#in one piece.
-askorn02_dia09 That kind of attire#you use...
-askorn02_dia10 It's not something from#this land,|||||||||||| am I correct?
-askorn02_dia11 No matter.
-askorn02_dia12 At this state of decay,||||||||||||#none of us should be#idling carelessly.
-askorn02_dia13 I'll be around.#Take care!
-askorn02_dia14 The township's past prosperity and glory#are long gone,||||||||||||||| it seems.
-askorn02_dia15 In this time of need,||||||||||||||| people won't#fight,||||||||||||| and people won't pray.
-askorn02_dia16 Whatever is left won't#remain for much longer.
+askorn02_dia01 Ei,|||||||||||| Kaho!
+askorn02_dia02 Me ajude de algum jeito!
+askorn02_dia03 Obrigado.
+askorn02_dia04 Estava engaiolado aqui,||||||||||||#e temi que toda minha esperança#tivesse se esvaído.
+askorn02_dia05 Agora posso continuar procurando minha esposa.
+askorn02_dia06 Ambos morremos a muito tempo atrás,|||||||||||||| ainda assim parece que os mortos#atravessaram as fronteiras que levam a esse mundo.
+askorn02_dia07 Ainda tem muito a ser dito.||||||||||||||||||||||||#Eu planejo me reunir com ela e#e fugir dessa cidade abandonada.
+askorn02_dia08 Eu vejo que você continua#inteira.
+askorn02_dia09 Este tipo de vestimenta#que você usa...
+askorn02_dia10 Não é algo#desta terra,|||||||||||| estou certo?
+askorn02_dia11 Não importa.
+askorn02_dia12 A este estado de decadência||||||||||||#nenhum de nós deveria estar#perdendo tempo descuidadamente.
+askorn02_dia13 Vou estar por perto.#Se cuide!
+askorn02_dia14 O antigo município de prosperidade e glória#já se foi,||||||||||||||| pelo que parece.
+askorn02_dia15 Nestes tempos de necessidades,||||||||||||||| o povo não vai#lutar,||||||||||||| e nem rezar.
+askorn02_dia16 O que quer que seja deixado para trás não vai#durar muito.
 
-askorn03_dia01 @||||My dear Cecilia...
+askorn03_dia01 @||||Minha querida Cecilia...
 askorn03_dia02 @...
 
-fishgirl_dia01 Please,||||||||||| you must find a way to get me#out from this cell.
-fishgirl_dia02 Some sort of spell is spreading from#this kingdom to the lands of the#west,||||||||||| home of my people.
-fishgirl_dia03 @Please...|||||||||||#Do not leave me alone here...
-fishgirl_dia04 Find a way to put a stop to this...
+fishgirl_dia01 Por favor,||||||||||| você deve encontrar um jeito de me#tirar dessa prisão.
+fishgirl_dia02 Algum tipo de feitiço está se espalhando#deste reino para as regiões #oeste,||||||||||| lar do meu povo.
+fishgirl_dia03 @Por favor...|||||||||||#Não me deixe sozinha aqui...
+fishgirl_dia04 Encontre uma forma de parar isso...
 
-nutmeg_dia01 £Huh?#|||||||W-|||||||||||Who are you?!||||||||||||||| And#how did you get here?!
-nutmeg_dia02 £Get out,||||||||||||| outsider!|||||||||||||#Now!|||||||||||||£#You are giving me the creeps!!
-nutmeg_dia03 £Why are you still here?#||||||||W-What is it that you desire?!
-nutmeg_dia04 Um,||||||||||||| whatever you say.
-nutmeg_dia05 I am Nutmeg Liz,||||||||||||| c-curator#of this Royal Pinacotheca.
-nutmeg_dia06 Like I told you#before: LEAVE.
-nutmeg_dia07 I wish there was a reason for you to#stick around,||||||||||||||||||| but there isn't.
-nutmeg_dia08 You have business#with the Queen...?
-nutmeg_dia09 Well,||||||||||||||| that's rare.||||||||||||||||||||||||||#Do you realize...
-nutmeg_dia10 No,|||||||| nevermind.
-nutmeg_dia11 Be glad you are still alive and breathing.||||||||||||||||||||||||||||||#Don't worry,||||||||||||| though,||||||||||| your time is coming.
+nutmeg_dia01 £Huh?#|||||||Q-|||||||||||Quem é você?!||||||||||||||| E#como chegou aqui?!
+nutmeg_dia02 £Vá embora,||||||||||||| forasteiro!|||||||||||||#Agora!|||||||||||||£#Você está me assustando!!
+nutmeg_dia03 £Por quê ainda está aqui?#||||||||Q-Qual o seu desejo?!
+nutmeg_dia04 Hum,||||||||||||| como quiser.
+nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curador#desta Pinacoteca Real.
+nutmeg_dia06 Como te disse#antes: VÁ EMBORA.
+nutmeg_dia07 Eu queria que existisse uma razão para você#continuar por aqui,||||||||||||||||||| mas não tem.
+nutmeg_dia08 Você tem negócios#com a Rainha...?
+nutmeg_dia09 Bem,||||||||||||||| essa é nova.||||||||||||||||||||||||||#Você não percebe...
+nutmeg_dia10 Não,|||||||| deixa pra lá.
+nutmeg_dia11 Fique feliz por respirar e continuar viva.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| Afinal,||||||||||| sua hora vai chegar.
 nutmeg_dia12 £Nye he he#he he he...
-nutmeg_dia13 At this point,|||||||||||||||| we are walking#a path of uncertainties.#It brings out the best and#the worst out of us.
+nutmeg_dia13 Á esse ponto,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
 
-merlot_dia01 Ah... Who are you?#Someone from the southern#provinces?
-merlot_dia02 There's a certain...#peculiar air around you.
-merlot_dia03 Please,|||||||||||||| join us here.#||||||||||||||||||It's safer.
-merlot_dia04 Though... It seems you can#manage your way around. 
-merlot_dia05 What we remember of the past are simple#figments of our memories.
-merlot_dia06 Personal treasures that aren't#stored anywhere else.
-merlot_dia07 The past doesn't exist...#The present is all we've got.
+merlot_dia01 Ah... Quem é você?#Alguém do sul das#províncias?
+merlot_dia02 Tem um certo...#ar peculiar ao seu redor.
+merlot_dia03 Por favor,|||||||||||||| junte-se a nós aqui.#||||||||||||||||||É mais seguro.
+merlot_dia04 Mesmo assim... parece que você pode#dar seu jeito. 
+merlot_dia05 O que lembramos do passado é simplesmente#figmentos de nossas memórias.
+merlot_dia06 Tesouro pessoais que não são guardados#em nenhum outro lugar.
+merlot_dia07 O passado não existe...#O presente é tudo que temos.
 
-mallory_dia01 This building is corrupted...
-mallory_dia02 Once,|||||||||||||||||| it housed fine displays of art,||||||||||||||||||| but#now it's been doomed to distorted#shapes filled with evil.
-mallory_dia03 I am glad you found us.|||||||||||||||||||#We've been hiding here for many#months,||||||||||||||||||| alone.
-mallory_dia04 Death could come any day,||||||||||||||||||||| any minute now.#|||||||||||||||||None of us know how long we've got.
-mallory_dia05 Which is why we have to make#each day matter.
+mallory_dia01 Esta construção está corrompida...
+mallory_dia02 Uma vez,|||||||||||||||||| abrigou belas exposições de arte,||||||||||||||||||| mas#agora está condenada a distorcidas#formas cheias de mal.
+mallory_dia03 Estou feliz que você nos encontrou.|||||||||||||||||||#Estávamos nos escondendo aqui por#meses,||||||||||||||||||| isolados.
+mallory_dia04 Morte poderia vir a qualquer dia,||||||||||||||||||||| a qualquer minuto.#|||||||||||||||||Ninguém de nós sabia o quanto nos restava.
+mallory_dia05 É por isso que devemos fazer#cada dia valer.
 
-lupiar_dia01 So you are the one who#engaged with Fennel.
-lupiar_dia02 Turn back now,|||||||||||||| foreigner.#||||||||||||Her Highness does not want to be#disturbed.
-lupiar_dia03 Such impudence...
+lupiar_dia01 Você é que tem#ocupando Fennel.
+lupiar_dia02 Dê meia-volta agora,|||||||||||||| forasteiro.#||||||||||||Sua Alteza não quer ser#pertubada.
+lupiar_dia03 Quanta impudência...
 lupiar_dia04 Magnolia!
-magnolia_dia01 I know your kind...||||||||||||||||||||||#£@Cough...
-magnolia_dia02 Just like the pardoner,||||||||||||||||||#you stand against our Queen...
-magnolia_dia03 £@Cough...||||||||||||#Blinded by faith.
-magnolia_dia04 @£The Queen would never...|||||||||#hurt u... |||||||||||||s...
+magnolia_dia01 Eu conheço sua laia...||||||||||||||||||||||#£@*Tosse*...
+magnolia_dia02 Que nem o perdoador,||||||||||||||||||#você se ergue contra a Rainha...
+magnolia_dia03 £@*Tosse*...||||||||||||#Cegada pela fé.
+magnolia_dia04 @£A Rainha jamais...|||||||||#te machucaria... |||||||||||||s...
 
-prudence_dia01 You cannot deceive me.
-prudence_dia02 £Meow...£|||||||||||||||||||||#Welcome to Karst Castle,||||||||||||| human.
-prudence_dia03 That black dress...|||||||||||||||||||||||||||||||||#A sacrifice maiden from Lun, ||||||||||||||I presume?
-prudence_dia04 £Meow...£|||||||||||||||||||||#Perhaps even your methods wouldn't#be enough to save us.
+prudence_dia01 Você não pode me enganar.
+prudence_dia02 £Meow...£|||||||||||||||||||||#Bem-vindo ao Castelo de Karst,||||||||||||| humana.
+prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma oferenda de Lun, ||||||||||||||Eu pressuponho?
+prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez seus metódos não sejam#suficientes para nos salvar.
 prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
 
 // Bad ending
-ending_dia01 Kaho,|||||||||||||||| the high priestess from the#village of Lun,||||||||||||||||||||| failed in her mission#of sealing away the curse.
-ending_dia02 The world of the living was further infested#by spirits of the dead,||||||||||||||||||| who continued to#spread misery throughout the world.
+ending_dia01 Kaho,|||||||||||||||| a alta sacerdotisa do#vilarejo de Lun,||||||||||||||||||||| falhou em sua missão#de vedar a maldição.
+ending_dia02 O mundo dos vivos foi infestado mais ainda#pelo espírito dos mortos,||||||||||||||||||| que continuaram a#espalhar miséria pelo mundo.
 
 // Good ending
-ending_dia03 When the curse from east reached the#village of Lun,|||||||||||||||||||||| a priestess was sent#on a sacred mission to seal it away.
-ending_dia04 The priestess triumphed over the dark,||||||||||||||||| stopping#the spread of the curse by drawing it into her#body,||||||||||||||||||| but she faded away in the process.
-ending_dia05 Now only a faint memory of her story#remains,||||||||||||||||||||||||||| passed on as tradition.
-ending_dia06 Even so,|||||||||||||||||| her spirit of determination lingers on,#|||||||||||||||||||guiding younger priestesses towards finding peace.
+ending_dia03 Quando a maldição do leste atingiu o#vilarejo de Lun,|||||||||||||||||||||| a sacerdotisa foi enviada#numa missão sagrada de selá-lo.
+ending_dia04 A sacerdotisa triunfou sobre a escuridão,||||||||||||||||| parando#o crescimento da maldição aprisionando dentro no seu#corpo,||||||||||||||||||| porém ela se esvaiu no processo.
+ending_dia05 Hoje em dia apenas uma vaga memória da sua história#continua,||||||||||||||||||||||||||| sendo passado como tradição.
+ending_dia06 Mesmo assim,|||||||||||||||||| seu espírito de determinação continua,#|||||||||||||||||||guiando pequenas sacerdotisas a encontrar paz.
 
-dev_dia01 Welcome to the DEVELOPMENT ROOM!#Congratulations on making it this far.
-dev_dia02 This is where you get#to meet the development team.
-dev_dia03 If you wish to go back,||||||||||||||||#proceed to the left.
-dev_dia04 rdein: Hello! I hope you are enjoying#Momodora.
-dev_dia05 rdein: Whatever we make next,#I hope you'll look forward to it, too!
-dev_dia06 PKBT: oh...?|||||||||||||||#my developer room quote...?
-dev_dia07 PKBT: i haven't thought of one yet...
-dev_dia08 PKBT: rdein says i need a vacation...#||||||||||||||||||i guess i could say that...
-dev_dia09 Hernan: You can achieve anything as long#as you believe in it.
-dev_dia10 Hernan: Don't give up my friend!#See you again in the future! 
+dev_dia01 Bem vindo a SALA DE DESENVOLVIMENTO!#Parabéns por chegar tão longe.
+dev_dia02 Aqui é onde você conhece#o time de desenvolvimento.
+dev_dia03 Se você deseja voltar,||||||||||||||||#vá para a esquerda.
+dev_dia04 rdein: Oi! Tomara que esteja gostando de #Momodora.
+dev_dia05 rdein: O que quer fizermos em seguida,#Espero que vocês acompanhem, também!
+dev_dia06 PKBT: hã...?|||||||||||||||#minha fala na sala do desenvolvedor...?
+dev_dia07 PKBT: eu ainda não pensei em uma...
+dev_dia08 PKBT: rdein disse que eu preciso de férias...#||||||||||||||||||eu acho que eu posso dizer isso...
+dev_dia09 Hernan: Você pode conquistar qualquer coisa#desde que você acredite.
+dev_dia10 Hernan: Não desista meu amiga!#Te vejo no futuro! 
 dev_dia11 ...
 dev_dia12 notoriousKnave: £Boo!
-dev_dia13 thernz: I didn't do anything for this game
+dev_dia13 thernz: Eu não fiz nada para esse jogo.
 
 // Item Messages //
-item_name_01 Adorned Ring
-item_name_02 Necklace of Sacrifice
-item_name_04 Bellflower
-item_name_05 Astral Charm
-item_name_06 Edea's Pearl
-item_name_07 Dull Pearl
-item_name_08 Red Ring
-item_name_09 Magnet Stone
-item_name_10 Rotten Bellflower
-item_name_11 Faerie Tear
+item_name_01 Anel Decorado
+item_name_02 Colar do Sacrifício
+item_name_04 Campânula
+item_name_05 Amuleto Astral
+item_name_06 Peróla de Edea
+item_name_07 Peróla Enfadonha
+item_name_08 Anel Vermelho
+item_name_09 Imã
+item_name_10 Campânula Podre
+item_name_11 Lagrima de Fada
 item_name_12 
-item_name_13 Impurity Flask
-item_name_14 Passiflora
-item_name_15 Crystal Seed
-item_name_16 Medal of Equivalence
+item_name_13 Frasco da Impureza
+item_name_14 Maracujá
+item_name_15 Semente de Cristal
+item_name_16 Medalha da Equivalência
 item_name_17 Tainted Missive
-item_name_18 Black Sachet
+item_name_18 Sachê Negro
 item_name_19 
 item_name_20 
-item_name_21 Ring of Candor
-item_name_22 Small Coin
+item_name_21 Anel de Candor
+item_name_22 Moeda Pequena
 item_name_23 Bakman Patch
-item_name_24 Cat Sphere
-item_name_25 Hazel Badge
-item_name_26 Torn Branch
-item_name_27 Monastery Key
+item_name_24 Esfera de Gato
+item_name_25 Crachá Marrom
+item_name_26 Galho Rasgado
+item_name_27 Chave do Monastério
 item_name_28 
-item_name_29 Karst Crest
+item_name_29 Crista de Karst
 item_name_30 
-item_name_31 Clarity Shard
-item_name_32 Dirty Shroom
+item_name_31 Pedaço de Clareza
+item_name_32 Cogumelo Sujo
 item_name_33 
-item_name_34 Ivory Bug
-item_name_35 Violet Sprite
-item_name_36 Soft Tissue
-item_name_37 Garden Key
-item_name_38 Sparse Thread
-item_name_39 Blessing Charm
-item_name_40 Heavy Arrows
-item_name_41 Bloodstained Tissue
-item_name_42 Maple Leaf
-item_name_43 Fresh Spring Leaf
-item_name_44 Pocket Incensory
-item_name_45 Birthstone
-item_name_46 Quick Arrows
-item_name_47 Drilling Arrows
-item_name_48 Sealed Wind
-item_name_49 Cinder Key
-item_name_50 Crest Fragment
-item_name_51 Crest Fragment
-item_name_52 Crest Fragment
-item_name_53 Crest Fragment
+item_name_34 Inseto de Marfim
+item_name_35 Fada Violeta
+item_name_36 Tecido Massio
+item_name_37 Chave do Jardim
+item_name_38 Fio Escasso
+item_name_39 Amuleto Abençoado
+item_name_40 Flechas Pesadas
+item_name_41 Tecido Manchado de Sangue
+item_name_42 Folha de Bordo
+item_name_43 Folha Fresca da Primavera
+item_name_44 Incensário de Bolso
+item_name_45 Pedras Zodiacais
+item_name_46 Flechas Rápidas
+item_name_47 Flechas Perfurantes
+item_name_48 Ventania Selada
+item_name_49 Chave Cinza
+item_name_50 Fragmento de Crista
+item_name_51 Fragmento de Crista
+item_name_52 Fragmento de Crista
+item_name_53 Fragmento de Crista
 
-item_effect_01 Passive Effect: increases invincibility frames and defense.
-item_effect_02 Passive Effect: increases attack by 100% when in low health.
-item_effect_04 Active Effect: restores a small amount of HP per use.
-item_effect_05 Passive Effect: sometimes enemies will drop twice as much munny.
-item_effect_06 Passive Effect: grants poison properties to your arrows.
-item_effect_07 Passive Effect: grants poison properties to your arrows.
-item_effect_08 Passive Effect: restores a small amount of HP per kill, but#enemies won't drop munny.
-item_effect_09 Passive Effect: attracts munny stars.
-item_effect_10 Active Effect: inflicts poison on the user.
-item_effect_11 Passive Effect: raises user's resistance to status ailments.
+item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
+item_effect_02 Efeito Passivo: aumenta o ataque em 100% com pouca vida.
+item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP por uso.
+item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro de dinhela.
+item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
+item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
+item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por morte, mas#inimigos não irão dropar dinhelas.
+item_effect_09 Efeito Passivo: atrai dinhela.
+item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
+item_effect_11 Efeito Passivo: raises user's resistance to status ailments.
 item_effect_12
-item_effect_13 Passive Effect: restores HP whenever user is poisoned.
-item_effect_14 Active Effect: fully restores the user's HP.
-item_effect_15 Active Effect: temporarily increases attack by 50%.
-item_effect_16 Passive Effect: slowly restores HP.
-item_effect_17 Active Effect: temporarily increases attack by 100%,#at the cost of HP.
-item_effect_18 Passive Effect: heavily increases attack power,#at the risk of losing HP.
+item_effect_13 Efeito Passivo: restores HP whenever user is poisoned.
+item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
+item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
+item_effect_16 Efeito Passivo: lentamente restaura o HP.
+item_effect_17 Efeito Ativo: temporarimente aumenta o ataque em 100%,#ao custo de HP.
+item_effect_18 Efeito Passivo: aumenta imensamente o poder de ataque,#com o risco de perder HP.
 item_effect_19 
 item_effect_20 
-item_effect_21 Passive Effect: emits a sound when near secrecy.
-item_effect_22 Key Item.
-item_effect_23 Active Effect: summons several Bak blocks.
-item_effect_24 Active Effect: alternates between cat and human forms.
-item_effect_25 Key Item.
-item_effect_26 Passive Effect: restores a small amount of HP per kill.
-item_effect_27 Key Item.
-item_effect_28 Key Item.
-item_effect_29 Key Item. Allows warping when praying.
+item_effect_21 Efeito Passivo: emite um som perto de segredos.
+item_effect_22 Item Chave.
+item_effect_23 Efeito Ativo: chama vários Blocos Bak.
+item_effect_24 Efeito Ativo: alterna entre a forma humana e de gata.
+item_effect_25 Item chave.
+item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por morte.
+item_effect_27 Item Chave.
+item_effect_28 Item Chave.
+item_effect_29 Item Chave. permite warping quando estiver rezando.
 item_effect_30 
-item_effect_31 Active Effect: increases visibility in dark areas.
-item_effect_32 Key Item.
+item_effect_31 Efeito Ativo: aumenta visibilidade de áreas escuras.
+item_effect_32 Item Chave.
 item_effect_33 
-item_effect_34 Key Item.
+item_effect_34 Item Chave.
 item_effect_35 Active Effect: casts protective dark sorcery.
 item_effect_36 Active Effect: creates an artificial healing zone.
 item_effect_37 Key Item.
