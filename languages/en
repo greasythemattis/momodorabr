@@ -53,7 +53,7 @@ sys_ui32 VOCÊ MORREU
 sys_ui33 TENTAR NOVAMENTE
  
 // Pause menu
-sys_ui34 EQUIPMENTO
+sys_ui34 EQUIPAMENTO
 sys_ui35 ITENS CHAVE
 sys_ui36 MAPA
 sys_ui37 CONFIGURAÇÕES
@@ -78,7 +78,7 @@ sys_ui53 Deletar
 sys_ui54 Começar
 sys_ui55 Configurações
 sys_ui56 Sair
-sys_ui57 Itens chave
+sys_ui57 Itens Chave
 sys_ui58 BALANÇAR DE TELA
 sys_ui59 PADRÃO
 sys_ui60 LIGADO
@@ -188,7 +188,7 @@ sys_boss06 Arquiduquesa Choir
 sys_boss07 Herege Piromaníaco
 sys_boss08 Magnolia, a Caçadora Real
 sys_boss09 Duquesa Lupiar
-sys_boss10 Accurst, Rainha de Karst
+sys_boss10 Rainha Amaldiçoada de Karst
  
 // Ending strings //
 sys_end01 STAFF ROLL
@@ -580,9 +580,9 @@ item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por morte, mas#inimigos não irão dropar dinhelas.
 item_effect_09 Efeito Passivo: atrai dinhela.
 item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
-item_effect_11 Efeito Passivo: raises user's resistance to status ailments.
+item_effect_11 Efeito Passivo: aumenta resistência do usúario a doenças de estado.
 item_effect_12
-item_effect_13 Efeito Passivo: restores HP whenever user is poisoned.
+item_effect_13 Efeito Passivo: restaura HP sempre que o usúario estiver envenenado.
 item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
@@ -598,7 +598,7 @@ item_effect_25 Item chave.
 item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por morte.
 item_effect_27 Item Chave.
 item_effect_28 Item Chave.
-item_effect_29 Item Chave. permite warping quando estiver rezando.
+item_effect_29 Item Chave. permite teletransportar quando estiver rezando.
 item_effect_30 
 item_effect_31 Efeito Ativo: aumenta visibilidade de áreas escuras.
 item_effect_32 Item Chave.
@@ -622,7 +622,7 @@ item_effect_49 Item chave.
 item_effect_50 Item chave. libera um novo nível de carregamento com o arco.
 item_effect_51 Item chave. aumenta velocidade do carregamento de flechas.
 item_effect_52 Item chave. permite se esquivar no meio do ar.
-item_effect_53 Item chave. permite warping enquanto reza.
+item_effect_53 Item chave. permite teletransportar enquanto reza.
 
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
 item_lore_02 Colar Pequenininho.#Aqueles que o usarem encontraram força em sua#estranha benção, esperando recuperar aquilo que foi perdido.
