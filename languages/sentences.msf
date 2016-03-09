@@ -154,7 +154,7 @@ sys_dia42 Brasão de Karst necessário para passar
 sys_dia43 Chave Cremada utilizada.
 sys_dia44 Sachê Negro obtido.
 sys_dia45 Essa caveira parece estar rindo.
-sys_dia46 Banhar a folha de Acer no chá de Hibisco?
+sys_dia46 Banhar a folha de Bordo no chá de Hibisco?
 sys_dia47 Folha Fresca da Primavera obtida.
 sys_dia48 Vento Selado obtido.
 sys_dia49 Flechas Pesadas obtidas.
@@ -170,7 +170,7 @@ sys_dia57 [Nada]
 // Area names //
 sys_area01 Bosque Sagrado da Ordalia
 sys_area02 Cidade de Karst
-sys_area03 Monastério desamparado
+sys_area03 Monastério Desamparado
 sys_area04 Túmulo Subterrâneo
 sys_area05 Parque Memorial Whiteleaf
 sys_area06 Câmaras de Cinzas
@@ -184,8 +184,8 @@ sys_boss02 Fennel, a Indulgente
 sys_boss03 Moka
 sys_boss04 Lubella, Bruxa da Ruína
 sys_boss05 Frida, a Negligente
-sys_boss06 Arquiduquesa Choir
-sys_boss07 Herege Piromaníaco
+sys_boss06 Arquisacerdotisa
+sys_boss07 Arsonista Herege
 sys_boss08 Magnolia, a Caçadora Real
 sys_boss09 Duquesa Lupiar
 sys_boss10 Rainha Amaldiçoada de Karst
@@ -268,7 +268,7 @@ cath03_dia03 @Por favor...#|||||||||||||||||||||||acabe com meu sofrimento...
 cath03_dia04 @Faça a dor... pa...£rar...
 cath03_dia05 £@...
 
-citynpc01_dia01 Eu não estou assutado.
+citynpc01_dia01 Eu não estou assutada.
 citynpc01_dia02 A corte real tem ignorado nós,#os cidadãos, desde que o reino#caiu em uma maldição.
 citynpc01_dia03 Se você quer ficar a salva,||||||||||||||#não saia lá fora.
 citynpc01_dia04 @£Faça isso parar...
@@ -328,7 +328,7 @@ paramol_dia06 Minha Mestra deve saber#guiar você.
 paramol_dia07 Ela vive dentro do monastério#da cidade, arrodeada de gatos.
 paramol_dia08 Você tem visto as pessoas#dessa cidade?||||||||||||#Tudo está perdido.
 paramol_dia09 O medo destruiu nossas mentes.|||||||||||#Fique bem.
-paramol_dia10 Você ouviu falar?#|||||||||||||||||||A irmã mais velha do Perdoador#retornou.
+paramol_dia10 Você ouviu falar?#|||||||||||||||||||A irmã mais velha de Fennel#retornou.
 paramol_dia11 Ela é uma das autoridades da corte#em nome do convento.
 paramol_dia12 Você vai estar#interessada em encontrá-la.
 
@@ -345,7 +345,7 @@ cotti_dia10 Você vai ter que encontrar o caminho#sozinha.
 cotti_dia11 Aqui,||||||||||||||| isto deve te ajudar.
 cotti_dia12 Tenha cuidado.||||||||||||||||#Faz um ano que#isso tudo começou,|||||||||||||| mas a maioria da#população foi completamente extinta.
 cotti_dia13 Essa área foi declarada inóspita#pela nobreza,||||||||||| então é bom ver#alguém de fora.
-cotti_dia14 Eu vejo que você fez progresso.||||||||||||||||||#Ainda vai para o,|||||||||||||||||||| castelo?
+cotti_dia14 Eu vejo que você fez progresso.||||||||||||||||||#Ainda vai para o castelo?
 cotti_dia15 @A origem dessa confusão,|||||||||||||||||#ke ke ke...
 cotti_dia16 Quando a Sua Alteza fez um contrato#com o Submundo,||||||||||||||||||||||| certamente não esperava este resultado.
 cotti_dia17 Ou esperava?
@@ -438,7 +438,7 @@ askorn02_dia10 Não é algo#desta terra,|||||||||||| estou certo?
 askorn02_dia11 Não importa.
 askorn02_dia12 Nesse estado de decadência||||||||||||#nenhum de nós deveria estar#perdendo tempo descuidadamente.
 askorn02_dia13 Vou estar por perto.#Se cuide!
-askorn02_dia14 O antigo município de prosperidade e glória#já se foi,||||||||||||||| pelo que parece.
+askorn02_dia14 A antiga cidade de prosperidade e glória#já se foram,||||||||||||||| pelo que parece.
 askorn02_dia15 Nestes tempos de necessidades,||||||||||||||| o povo não vai#lutar,||||||||||||| e nem rezar.
 askorn02_dia16 O que quer que seja deixado para trás não vai#durar muito.
 
@@ -451,7 +451,7 @@ fishgirl_dia03 @Por favor...|||||||||||#não me deixe sozinha aqui...
 fishgirl_dia04 Encontre uma forma de parar isso...
 
 nutmeg_dia01 £Huh?#|||||||Q-|||||||||||Quem é você?!||||||||||||||| E#como chegou aqui?!
-nutmeg_dia02 £Vá embora,||||||||||||| forasteiro!|||||||||||||#Agora!|||||||||||||£#Você está me assustando!!
+nutmeg_dia02 £Vá embora,||||||||||||| forasteira!|||||||||||||#Agora!|||||||||||||£#Você está me assustando!!
 nutmeg_dia03 £Por quê ainda está aqui?#||||||||Qu-que é que deseja?!
 nutmeg_dia04 Hum,||||||||||||| como quiser.
 nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curadora#desta Pinacoteca Real.
@@ -483,13 +483,13 @@ lupiar_dia02 Dê meia-volta agora,|||||||||||||| forasteiro.#||||||||||||Sua Alt
 lupiar_dia03 Quanta impudência...
 lupiar_dia04 Magnolia!
 magnolia_dia01 Eu conheço sua laia...||||||||||||||||||||||#£@*Tosse*...
-magnolia_dia02 Que nem o Perdoador,||||||||||||||||||#você se ergue contra a Rainha...
+magnolia_dia02 Que nem Fennel,||||||||||||||||||#você se ergue contra a Rainha...
 magnolia_dia03 £@*Tosse*...||||||||||||#Cegada pela fé.
 magnolia_dia04 @£A Rainha jamais...|||||||||#te machucaria... |||||||||||||s...
 
 prudence_dia01 Você não pode me enganar.
 prudence_dia02 £Meow...£|||||||||||||||||||||#Bem-vindo ao Castelo de Karst,||||||||||||| humana.
-prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma oferenda de Lun, ||||||||||||||Eu pressuponho?
+prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma sacertodisa sacrificial, ||||||||||||||| eu pressuponho?
 prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez nem com seus metódos isto seja#suficiente para nos salvar.
 prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
 
@@ -498,10 +498,10 @@ ending_dia01 Kaho,|||||||||||||||| a alta sacerdotisa do#vilarejo de Lun,|||||||
 ending_dia02 O mundo dos vivos foi infestado mais ainda#pelo espírito dos mortos,||||||||||||||||||| que continuaram a#espalhar miséria pelo mundo.
 
 // Good ending
-ending_dia03 Quando a maldição do leste atingiu o#vilarejo de Lun,|||||||||||||||||||||| a sacerdotisa foi enviada#numa missão sagrada de selá-lo.
-ending_dia04 A sacerdotisa triunfou sobre a escuridão,||||||||||||||||| parando#o crescimento da maldição e aprisionando dentro de seu#corpo,||||||||||||||||||| porém ela se esvaiu no processo.
+ending_dia03 Quando a maldição do leste atingiu o#vilarejo de Lun,|||||||||||||||||||||| uma sacerdotisa foi enviada#numa missão sagrada de selá-la.
+ending_dia04 A sacerdotisa triunfou sobre a escuridão,||||||||||||||||| parando#o crescimento da maldição e aprisionando-a dentro de seu#corpo,||||||||||||||||||| porém ela se esvaiu no processo.
 ending_dia05 Hoje em dia apenas uma vaga memória da sua história#continua,||||||||||||||||||||||||||| sendo passada como tradição.
-ending_dia06 Mesmo assim,|||||||||||||||||| seu espírito de determinação continua,#|||||||||||||||||||guiando pequenas sacerdotisas a encontrar a paz.
+ending_dia06 Mesmo assim,|||||||||||||||||| seu espírito de determinação continua,#|||||||||||||||||||guiando novas sacerdotisas a encontrar a paz.
 
 dev_dia01 Bem vindo à SALA DE DESENVOLVIMENTO!#Parabéns por chegar tão longe.
 dev_dia02 Aqui é onde você conhece#o time de desenvolvimento.
@@ -632,13 +632,13 @@ item_lore_06 Edea foi uma pecadora que traiu seu própio povo.#Devido a suas aç
 item_lore_07 Peróla feita para parecer uma jóia rara de um demônio.
 item_lore_08 #Anel feito de sangue, possuindo a habilidade de#drenar as sobras dos inimigos caídos.
 item_lore_09 Pedra peculiar, raramente encontrada na superfície.
-item_lore_10 Favorita do antigo rei de Karst.#Seu nome de batismo é mantida em absoluto segredo, para#evitar o infortúnio.
+item_lore_10 Favorita do antigo rei de Karst.#Seu nome de batismo é mantidao em absoluto segredo, para#evitar o infortúnio.
 item_lore_11 Estado sólido de uma lágrima de fada.#Levemente encantada, é sutilmente cintilante.
 item_lore_12 
 item_lore_13 Medonho líquido produzido por Toar, o doutor adormecido.#Seu aroma, apesar de mortal, encantou muitas#almas sem sorte.
 item_lore_14 Flor rara, colhida do#seco Parque Whiteleaf.
 item_lore_15 Semente macia feita de cristal.#Bastante díficil de se tornar uma árvore adulta, devido a#sua delicadeza.
-item_lore_16 Medalha da província de Crominia.#Carregada por mensageiros montados em cervos,#dedicada a uma vida de grandes jornadas.
+item_lore_16 Medalha da província de Crominia.#Carregada por mensageiros montados em cervos,#dedicados a uma vida de grandes jornadas.
 item_lore_17 #Os seguidores de Esselin pregam o perdão, mas seus#pensamentos são maldosos e cheios de ódio.
 item_lore_18 #Sachê aplicável no próprio peito.#Seu cheiro pode provocar delírio repentino.
 item_lore_19 
@@ -648,26 +648,26 @@ item_lore_22 Presente simples de importância subjetiva.
 item_lore_23 Objeto absolutamente sem sentido.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
 item_lore_24 Objeto de feitiçaria desconhecida.#Parece uma bola de cristal comum.
 item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
-item_lore_26 #O Parque Whiteleaf, influenciado por bruxaria, foi movido# até o fundo da cidade.Foi infestado por espíritos e demônios do# submundo, que nem o da bruxa imortal Lubella.
-item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
+item_lore_26 #O Parque Whiteleaf, influenciado por bruxaria, foi movido# até o fundo da cidade. Foi infestado por espíritos e demônios do# submundo, que nem o da bruxa imortal Lubella.
+item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abandonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
 item_lore_28 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
-item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
+item_lore_29 Libera acesso ao Castelo de Karst.#Um design que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
 item_lore_30 
 item_lore_31 De acordo com os costumes de Karst, estes são postos nas#tumbas como oferendas aos mortos. Acredita-se que suas#luzes guiam aqueles até a reencarnação.
-item_lore_32 Está escapando uma substância branca viscosa...#diabinhas adoram ela. 
+item_lore_32 Está escapando uma substância branca viscosa...#Diabinhas adoram ela. 
 item_lore_33 
 item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de formas de#vida doentes, removendo sua enfermidade.
 item_lore_35 Substância desconhecida, gerada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
 item_lore_36 Tecido encantado usado pelas freiras de Esselin em suas liturgias.
 item_lore_37 Chave coberta de musgo.#Contém um letreiro pouco legível,#com escrita de Karst.
 item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
-item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karstian.
-item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e fez parceria com o leal Lupiar.
-item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa#Choir.Temendo o poder de Crown ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
+item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karst.
+item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e se tornou parceira da leal Lupiar.
+item_lore_41 Tecido encharcado com o sangue 'santo' da Arquisacerdotisa#.Temendo o poder de Coroa ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
 item_lore_42 Folha sagrada colhida da Árvore de Lun.#Essas folhas, abençoadas pela Matriarca, são indestrutíveis.#Afiadas o bastante para purificar inimigos, é a arma principal#das sacerdortisas do oeste.
-item_lore_43 Folha verde sagrada possuidora de fortes repelentes# do que aqueles nas folhas mais comuns de Bordo. 
+item_lore_43 Folha verde sagrada com maior poder repelente#do que aqueles de folhas de Bordo. 
 item_lore_44 Recipiente encantado preenchido com carvão vegetal e incenso.
-item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou corrigir o mundo dos vivos e dos mortos.
+item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou unir o mundo dos vivos e dos mortos.
 item_lore_46 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_47 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_48 Caixa de madeira usada para dominar magias divinas.#Domina Vento Robusto.
