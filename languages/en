@@ -213,7 +213,7 @@ intro_npc_dia6 Ela vai chegar até a sua terra também,||||||||||||||||||||||#af
 intro_npc_dia7 Para agora, o melhor que você pode fazer#é procurar uma audiência com a Rainha.
 
 spider_dia01 £U-Uguu...
-spider_dia02 £Qu-quer comprar...?
+spider_dia02 £Q-quer comprar...?
 
 newgameplus_dia01 Você gostaria de salvar#por cima do arquivo atual?
 newgameplus_dia02 Fazendo isso,||||||||||||||||||| você vai começar uma nova aventura#desde o princípio,||||||||||||||||| com algumas mudanças.
@@ -452,9 +452,9 @@ fishgirl_dia04 Encontre uma forma de parar isso...
 
 nutmeg_dia01 £Huh?#|||||||Q-|||||||||||Quem é você?!||||||||||||||| E#como chegou aqui?!
 nutmeg_dia02 £Vá embora,||||||||||||| forasteiro!|||||||||||||#Agora!|||||||||||||£#Você está me assustando!!
-nutmeg_dia03 £Por quê ainda está aqui?#||||||||Q-Qual o seu desejo?!
+nutmeg_dia03 £Por quê ainda está aqui?#||||||||Q-que é que deseja?!
 nutmeg_dia04 Hum,||||||||||||| como quiser.
-nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curador#desta Pinacoteca Real.
+nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curadora#desta Pinacoteca Real.
 nutmeg_dia06 Como te disse#antes: VÁ EMBORA.
 nutmeg_dia07 Eu queria que existisse uma razão para você#continuar por aqui,||||||||||||||||||| mas não tem.
 nutmeg_dia08 Você tem negócios#com a Rainha...?
@@ -462,7 +462,7 @@ nutmeg_dia09 Bem,||||||||||||||| essa é nova.||||||||||||||||||||||||||#Você n
 nutmeg_dia10 Não,|||||||| deixa pra lá.
 nutmeg_dia11 Alegre-se por continuar viva e respirando.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| Afinal,||||||||||| sua hora vai chegar.
 nutmeg_dia12 £Nye he he#he he he...
-nutmeg_dia13 Á esse ponto,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
+nutmeg_dia13 Nesta altura,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
 
 merlot_dia01 Ah... Quem é você?#Alguém do sul das#províncias?
 merlot_dia02 Tem um certo...#ar peculiar ao seu redor.
@@ -490,7 +490,7 @@ magnolia_dia04 @£A Rainha jamais...|||||||||#te machucaria... |||||||||||||s...
 prudence_dia01 Você não pode me enganar.
 prudence_dia02 £Meow...£|||||||||||||||||||||#Bem-vindo ao Castelo de Karst,||||||||||||| humana.
 prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma oferenda de Lun, ||||||||||||||Eu pressuponho?
-prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez nem com seus metódos seja#suficiente para nos salvar.
+prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez nem com seus metódos isto seja#suficiente para nos salvar.
 prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
 
 // Bad ending
