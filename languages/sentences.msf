@@ -228,17 +228,17 @@ shop_dia06 Nome do Item
 shop_dia07 Preço
 shop_dia08 Você já possui esse item.
 
-cath01_dia01 O que você tá olhando?#||||||||||Eu sou um humano,|||||||||||| como você.
+cath01_dia01 O que você tá olhando?#||||||||||Eu sou humana,|||||||||||| como você.
 cath01_dia02 Você não me parece muito capaz#de se defender.
 cath01_dia03 Ouça o que eu digo,#procure por abrigo.
-cath01_dia04 |||||||||Meu nome é Cath.#||||||||||||||||Eu sou uma cavaleira a serviço#do reino.
+cath01_dia04 |||||||||Meu nome é Cath.#||||||||||||||||Eu sou uma amazona a serviço#do reino.
 cath01_dia05 Então, você é uma sacerdotisa de Lun.#||||||||||||E está procurando a ajuda da Rainha?
 cath01_dia06 ||||Ha.#||||Ha.#|||||||Ha.
 cath01_dia07 Você acha que ela tem interesse#na sua vila nalgum fim de mundo?
 cath01_dia08 ||||||||||||Bem,||||||||||| aqui vão às más notícias.
 cath01_dia09 |||||||||||||||Eu tenho ouvido rumores sobre uma bruxa#que está por aí...
 cath01_dia10 |||||||||Ir mais a fundo na cidade#é bem arriscado.
-cath01_dia11 ||||||||||||Se você tá confiante em#ver a Rainha,||||||||||||||| meu aviso vai#até aqui.
+cath01_dia11 ||||||||||||Se você tá confiante em#ver a Rainha,||||||||||||||| é meu último#aviso.
 cath01_dia12 Ninguém quer mais estar#nessa cidade abandonada.
 cath01_dia13 O reino inteiro parece um cemitério.#||||||||||||||||O número de mortos aumenta#diariamente.
 cath01_dia14 ||||||||||Eu não tenho muito a lembrar#senão a memória#da minha irmã,||||||||||||||| Cathryn.
@@ -430,7 +430,7 @@ askorn02_dia02 Me ajude de algum jeito!
 askorn02_dia03 Obrigado.
 askorn02_dia04 Estava engaiolado aqui,||||||||||||#e temi que toda minha esperança#tivesse se esvaído.
 askorn02_dia05 Agora posso continuar procurando minha esposa.
-askorn02_dia06 Ambos morremos há muito tempo atrás,|||||||||||||| ainda assim parece que os mortos#atravessaram as fronteiras que levam a esse mundo.
+askorn02_dia06 Ambos morremos há muito tempo atrás,|||||||||||||| ainda assim parece que os#mortos atravessaram as fronteiras que levam a esse mundo.
 askorn02_dia07 Ainda tem muito a ser dito.||||||||||||||||||||||||#Eu planejo me reunir com ela e# fugir dessa cidade abandonada.
 askorn02_dia08 Eu vejo que você continua#inteira.
 askorn02_dia09 Este tipo de vestimenta#que você usa...
