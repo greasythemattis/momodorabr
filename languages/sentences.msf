@@ -574,7 +574,7 @@ item_name_53 Fragmento do Brasão
 item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
 item_effect_02 Efeito Passivo: aumenta o ataque em 100% quando com pouca vida.
 item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP ao usar.
-item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro#de dinhela.
+item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobrode dinhela.
 item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por#inimigo morto, mas inimigos não irão dropar dinhelas.
@@ -648,7 +648,7 @@ item_lore_22 Presente simples de importância subjetiva.
 item_lore_23 Objeto absolutamente sem sentido.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
 item_lore_24 Objeto de feitiçaria desconhecida.#Parece uma bola de cristal comum.
 item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
-item_lore_26 O Parque Whiteleaf, influenciado pela magia da Rainha, foi#movido em direção ao fundo da cidade.#Foi infestado por espíritos e demônios do submundo, que nem o da#bruxa imortal Lubella.   
+item_lore_26 O Parque Whiteleaf, influenciado pela magia da Rainha, foi#movido em direção ao fundo da cidade.Foi infestado por espíritos#e demônios do submundo, que nem o da#bruxa imortal Lubella.   
 item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
 item_lore_28 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
 item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
