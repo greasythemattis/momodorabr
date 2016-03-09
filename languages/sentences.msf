@@ -627,7 +627,7 @@ item_effect_53 Item Chave. Permite teleportar enquanto reza.
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
 item_lore_02 Colar bem pequeno.#Aqueles que o usarem encontrarão força em sua#estranha bênção, esperando recuperar aquilo que foi perdido.
 item_lore_04 Flor azeda com poderes energizantes.
-item_lore_05 Velho e decrépito amuleto.#Aumenta radicalmente sua Sorte.
+item_lore_05 #Velho e decrépito amuleto.#Aumenta radicalmente sua Sorte.
 item_lore_06 Edea foi uma pecadora que traiu seu própio povo.#Devido a suas ações, ela foi expurgada, e seu corpo enviado#para o Bosque Sagrado, longe de casa.
 item_lore_07 Peróla feita para parecer uma jóia rara de um demônio.
 item_lore_08 #Anel feito de sangue, possuindo a habilidade de#drenar as sobras dos inimigos caídos.
@@ -648,7 +648,7 @@ item_lore_22 Presente simples de importância subjetiva.
 item_lore_23 Objeto absolutamente sem sentido.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
 item_lore_24 Objeto de feitiçaria desconhecida.#Parece uma bola de cristal comum.
 item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
-item_lore_26 O Parque Whiteleaf, influenciado por bruxaria, foi movido# até o fundo da cidade.Foi infestado por espíritos e demônios do# submundo, que nem o da bruxa imortal Lubella.
+item_lore_26 #O Parque Whiteleaf, influenciado por bruxaria, foi movido# até o fundo da cidade.Foi infestado por espíritos e demônios do# submundo, que nem o da bruxa imortal Lubella.
 item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
 item_lore_28 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
 item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
