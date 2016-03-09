@@ -53,7 +53,7 @@ sys_ui32 VOCÊ MORREU
 sys_ui33 TENTAR NOVAMENTE
  
 // Pause menu
-sys_ui34 EQUIPMENTO
+sys_ui34 EQUIPAMENTO
 sys_ui35 ITENS CHAVE
 sys_ui36 MAPA
 sys_ui37 CONFIGURAÇÕES
@@ -78,7 +78,7 @@ sys_ui53 Deletar
 sys_ui54 Começar
 sys_ui55 Configurações
 sys_ui56 Sair
-sys_ui57 Itens chave
+sys_ui57 Itens Chave
 sys_ui58 BALANÇAR DE TELA
 sys_ui59 PADRÃO
 sys_ui60 LIGADO
@@ -92,7 +92,7 @@ sys_tut04 Abrir menu
 sys_tut05 Ataque primário
 sys_tut06 Ataque à distância. Segure a tecla para o ataque carregado
 sys_tut07 Rolar atrás dos inimigos
-sys_tut08 Bata nos sinos para salvar seu jogo e recarregar seus itens
+sys_tut08 Bata nos Sinos para salvar seu jogo e recarregar seus itens
 sys_tut09 Usar item equipado
 sys_tut10
 sys_tut11
@@ -114,10 +114,10 @@ sys_dia02 -AMALDIÇOADA!-
 sys_dia03 Você achou um Inseto de Marfim!
 sys_dia04 Campânula obtida.
 sys_dia05 Talismã Astral obtido.
-sys_dia06 Pérola da Edea obtida.
+sys_dia06 Pérola de Edea obtida.
 sys_dia07 Remendo de Bakman obtido.
 sys_dia08 Carta Manchada obtida.
-sys_dia09 Pedra Magnética obtida.
+sys_dia09 Ímã obtido.
 sys_dia10 Você achou um Fragmento de Vitalidade!
 sys_dia11
 sys_dia12 Chave do Monastério obtida.
@@ -133,11 +133,11 @@ sys_dia21 Cogumelo Sujo obtido.
 sys_dia22
 sys_dia23 Chave do Jardim utilizada.
 sys_dia24 Esfera Felina obtida.
-sys_dia25 Ramo em pedaços obtido.
+sys_dia25 Galho Rasgado obtido.
 sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
-sys_dia29 Distintivo da Hazel recebido!
+sys_dia29 Distintivo Marrom recebido!
 sys_dia30 Passiflora recebida!
 sys_dia31 MAPA COMPLETO:
 sys_dia32 Sim
@@ -148,8 +148,8 @@ sys_dia36 Obrigado por jogar essa versão Demo!
 sys_dia37 #Sua HP aumentou.
 sys_dia38 #Mas a sua HP já está maximizada.
 sys_dia39 ?????
-sys_dia40 Chave Cremada obtida.
-sys_dia41 Incensório obtido.
+sys_dia40 Chave das Cinzas obtida.
+sys_dia41 Incensário de Bolso obtido.
 sys_dia42 Brasão de Karst necessário para passar
 sys_dia43 Chave Cremada utilizada.
 sys_dia44 Sachê Negro obtido.
@@ -160,12 +160,12 @@ sys_dia48 Vento Selado obtido.
 sys_dia49 Flechas Pesadas obtidas.
 sys_dia50 Passiflora obtida.
 sys_dia51 Lenço Ensanguentado obtido.
-sys_dia52 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de desviar no ar!
-sys_dia53 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
-sys_dia54 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
-sys_dia55 Você achou um fragmento de Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
+sys_dia52 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de desviar no ar!
+sys_dia53 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de carregar flechas mais rápido!
+sys_dia54 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
+sys_dia55 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
 sys_dia56 Dificuldade 'Insana' desbloqueada!
-sys_dia57 [Nulo]
+sys_dia57 [Nada]
  
 // Area names //
 sys_area01 Bosque Sagrado da Ordalia
@@ -188,7 +188,7 @@ sys_boss06 Arquiduquesa Choir
 sys_boss07 Herege Piromaníaco
 sys_boss08 Magnolia, a Caçadora Real
 sys_boss09 Duquesa Lupiar
-sys_boss10 Accurst, Rainha de Karst
+sys_boss10 Rainha Amaldiçoada de Karst
  
 // Ending strings //
 sys_end01 STAFF ROLL
@@ -204,22 +204,22 @@ sys_end10 O Fim
 sys_end11 Localização
 
 // NPC Messages //
-intro_npc_dia1 Acho que aqui#é o máximo até onde posso trazê-la.
-intro_npc_dia2 Sinto muito.|||||||||||||||||#Qualquer lugar perto da cidade#vai ser muito perigoso.
+intro_npc_dia1 Receio que aqui#é o máximo até onde posso trazê-la.
+intro_npc_dia2 Sinto muito.|||||||||||||||||#Mais perto da cidade que isso#será muito arriscado.
 intro_npc_dia3 Certamente,|||||||||||||||| isso não vai ser um problema#pra uma sacerdotisa como você.
 intro_npc_dia4 Lutar usando uma folha#deve ser complicado...
 intro_npc_dia5 Mas eu tenho fé na sua habilidade para#selar a maldição.
-intro_npc_dia6 Ela vai chegar até a sua terra também,||||||||||||||||||||||#afinal de contas.
-intro_npc_dia7 Para agora, o melhor que você pode fazer#é procurar uma audiência com a Rainha.
+intro_npc_dia6 Afinal de contas ela já se espalhou,||||||||||||||||||||||#na sua terra também.
+intro_npc_dia7 Por enquanto, o melhor que você pode fazer#é procurar uma audiência com a Rainha.
 
 spider_dia01 £U-Uguu...
-spider_dia02 £Qu-quer comprar...?
+spider_dia02 £Q-quer comprar...?
 
 newgameplus_dia01 Você gostaria de salvar#por cima do arquivo atual?
 newgameplus_dia02 Fazendo isso,||||||||||||||||||| você vai começar uma nova aventura#desde o princípio,||||||||||||||||| com algumas mudanças.
 newgameplus_dia03 Vamos lá, então!
 
-shop_dia01 Você veio daquela floresta#infestada de duendes...?
+shop_dia01 Você veio daquela floresta#infestada de diabinhas...?
 shop_dia02 Hi ha ha...#|||||||||||Interessante.
 shop_dia03 Como eu posso ajudá-la?
 shop_dia04 Valeu!
@@ -229,13 +229,13 @@ shop_dia07 Preço
 shop_dia08 Você já possui esse item.
 
 cath01_dia01 O que você tá olhando?#||||||||||Eu sou um humano,|||||||||||| como você.
-cath01_dia02 Você não me parece muito capaz#de se proteger.
+cath01_dia02 Você não me parece muito capaz#de se defender.
 cath01_dia03 Ouça o que eu digo,#procure por abrigo.
 cath01_dia04 |||||||||Meu nome é Cath.#||||||||||||||||Eu sou uma cavaleira a serviço#do reino.
-cath01_dia05 Então, você é uma sacerdotisa de Lun.#||||||||||||E tá procurando a ajuda da Rainha?
+cath01_dia05 Então, você é uma sacerdotisa de Lun.#||||||||||||E está procurando a ajuda da Rainha?
 cath01_dia06 ||||Ha.#||||Ha.#|||||||Ha.
-cath01_dia07 Você acha que ela tem interesse#na sua vila de fim de mundo?
-cath01_dia08 ||||||||||||Bom,||||||||||| aqui vão umas más notícias.
+cath01_dia07 Você acha que ela tem interesse#na sua vila nalgum fim de mundo?
+cath01_dia08 ||||||||||||Bem,||||||||||| aqui vão às más notícias.
 cath01_dia09 |||||||||||||||Eu tenho ouvido rumores sobre uma bruxa#que está por aí...
 cath01_dia10 |||||||||Ir mais a fundo na cidade#é bem arriscado.
 cath01_dia11 ||||||||||||Se você tá confiante em#ver a Rainha,||||||||||||||| meu aviso vai#até aqui.
@@ -275,7 +275,7 @@ citynpc01_dia04 @£Faça isso parar...
 
 church_dia01 Uma recém-convertida?#|||||Você procura a salvação?
 church_dia02 Você pode atingir a salvação em vez#da condenação, doando para o Santo#Esselin.
-church_dia03 Uma recomendação de 15 dinhelas#é preciso para isso.
+church_dia03 Um dízimo de 15 dinhelas#é preciso para isso.
 church_dia04 Nós somos gratos.#Que você encontre paz.
 church_dia05 Você não tem o valor#mínimo que nós requerimos.
 church_dia06 Que o senhor tenha#piedade de você.
@@ -295,7 +295,7 @@ choir_dia05 Na sagrada proteção do Senhor,#||||||||deixe-nos rezar pelos que j
 choir_dia06 @Por favor,||||||||||||||| meu Senhor,||||||||||||| tenha piedade#da alma de minha pobre irmã.#||||||||||||||||||Para ela poder descansar em paz...
 choir_dia07 Esse lenço que você tem...
 choir_dia08 Certamente pertenceu#à minha irmã mais nova.
-choir_dia09 Você daria ela#pra mim?
+choir_dia09 Você daria ele#pra mim?
 choir_dia10 Deu o Lenço Macio.
 choir_dia11 Obrigado por sua generosidade.
 choir_dia12 Como minha falecida irmã,#|||||||||||||||você representa uma ameaça à Coroa.
@@ -311,7 +311,7 @@ fennel_dia06 Olhe o que ela fez#para esse reino!
 fennel_dia07 É meu dever#acabar com esse mal!
 
 moka01_dia01 Huh?
-moka01_dia02 ||||||||Parece alguma#missioneira estrangeira...
+moka01_dia02 ||||||||Parece uma#missionária enxerida...
 moka01_dia03 @Ke he he...
 moka01_dia04 Ah ha ha...#|||||||||||||O seu cadáver podre irá#servir a minha senhora!
 moka01_dia05 £Sua pestinha...
@@ -325,7 +325,7 @@ paramol_dia03 Você é uma sacerdotisa que procura#uma audiência com a Corte Re
 paramol_dia04 Do jeito que as coisas estão,|||||||||||| chegar até#o castelo é muito difícil.
 paramol_dia05 Você não vai encontrar ajuda#nessa cidade,||||||||||||| mas...
 paramol_dia06 Minha Mestra deve saber#guiar você.
-paramol_dia07 Ela vive dentro do monastério#da cidade, com muitos gatos.
+paramol_dia07 Ela vive dentro do monastério#da cidade, arrodeada de gatos.
 paramol_dia08 Você tem visto as pessoas#dessa cidade?||||||||||||#Tudo está perdido.
 paramol_dia09 O medo destruiu nossas mentes.|||||||||||#Fique bem.
 paramol_dia10 Você ouviu falar?#|||||||||||||||||||A irmã mais velha do Perdoador#retornou.
@@ -338,16 +338,16 @@ cotti_dia03 Oh?#||||||||||Você se encontrou com Paramol?
 cotti_dia04 Ke ke ke...#|||||||||||||Tanta inocência.
 cotti_dia05 Então,|||||||||||||||||| você está preocupada#com a sua terra-natal.#||||||||||De fato, as trevas que amaldiçoam o seu povo#vêm daqui.
 cotti_dia06 |||||||Nossa Rainha foi possuída#por uma ganância malévola.|||||||||||||
-cotti_dia07 Ela é a responsável por várias casualidades.|||||||||||||#Não só aqui, mas em outros lugares,|||||||||||| também.
+cotti_dia07 Ela é a responsável por vários desastres.|||||||||||||#Não só aqui, mas em outros lugares,|||||||||||| também.
 cotti_dia08 @Ke ke ke...@
 cotti_dia09 Talvez você devesse ir até o castelo.|||||||||||||||#Só não espere muita gentileza#dos que vivem por lá.
 cotti_dia10 Você vai ter que encontrar o caminho#sozinha.
 cotti_dia11 Aqui,||||||||||||||| isto deve te ajudar.
-cotti_dia12 Tenha cuidado.||||||||||||||||#Só faz um ano que#isso tudo começou,|||||||||||||| mas a maioria da#população foi completamente extinta.
+cotti_dia12 Tenha cuidado.||||||||||||||||#Faz um ano que#isso tudo começou,|||||||||||||| mas a maioria da#população foi completamente extinta.
 cotti_dia13 Essa área foi declarada inóspita#pela nobreza,||||||||||| então é bom ver#alguém de fora.
-cotti_dia14 Eu vejo que você fez progresso.||||||||||||||||||#Indo para o castelo,|||||||||||||||||||| ainda?
+cotti_dia14 Eu vejo que você fez progresso.||||||||||||||||||#Ainda vai para o,|||||||||||||||||||| castelo?
 cotti_dia15 @A origem dessa confusão,|||||||||||||||||#ke ke ke...
-cotti_dia16 Quando a Sua Alteza fez um contrato#com o Submundo,||||||||||||||||||||||| certamente não esperava que isso estava por vir.
+cotti_dia16 Quando a Sua Alteza fez um contrato#com o Submundo,||||||||||||||||||||||| certamente não esperava este resultado.
 cotti_dia17 Ou esperava?
 cotti_dia18 Tenho esperança no sucesso dos seus#anseios,|||||||||||||||||| donzela de Lun.
 cotti_dia19 Enfrente a lealdade que ainda existe,||||||||||||||||#se esta ainda não se tornou medo.
@@ -359,7 +359,7 @@ eri01_dia04 H-£Huh.
 eri01_dia05 @E essas roupas aí...?||||||||||||||#@Quem é você?!#Identifique-se,|||||||||||||| agora!
 eri01_dia06 Sacerdotisa?#Então tá, né.
 eri01_dia07 Aqui vai um conselho de amigo: você não vai mais#encontrar segurança por aqui.
-eri01_dia08 Os boatos dizem que,||||||||||||||| a Rainha conjurou#uma tempestade de praga,||||||||||||||||||||| que está#se espalhando pelo mundo...
+eri01_dia08 Os boatos dizem que,||||||||||||||| a Rainha conjurou#uma tempestade de pragas,||||||||||||||||||||| que está#se espalhando pelo mundo...
 eri01_dia09 Olha,|||||||||||||||| você não parece ser#uma pessoa ruim.
 eri01_dia10 Por favor, corra daqui e salve#a sua pele, enquanto isso ainda é possível.
 
@@ -375,8 +375,8 @@ eri02_dia09 Ah... Obrigado.#|||||#Suas palavras me dão esperança.
 eri02_dia10 Estou recuando para a floresta#no limite da região.||||||||||||||||||| Essa área está protegida#contra a maldição da Rainha.
 
 eri03_dia01 Ah,||||||||||||| como vai?
-eri03_dia02 Sei.#Você veio de longe,||||||||||||| e até mesmo#a sua terra-natal está sendo afetada pela maldição...
-eri03_dia03 Ei!#£Esse Distintivo Hazel!£
+eri03_dia02 Sei.#Você veio de longe,||||||||||||| e até mesmo#a sua terra-natal está sendo afetada por nossa maldição...
+eri03_dia03 Ei!#£Esse Distintivo marrom!£
 eri03_dia04 Me pergunto se você trocaria ele#por este item especial que eu tenho?
 eri03_dia05 Obrigado.
 eri03_dia06 Se você mudar de ideia,#||||||||||||||||Estarei esperando.
@@ -398,10 +398,10 @@ florist_dia11 Parece que há 20#desses Insetos de Marfim#por aí...
 florist_dia12 Eles são pequenos,|||||||||||||||| mas proporcionam às minhas#plantas os nutrientes necessários.
 florist_dia13 Obrigado do fundo#do meu coração por trazer todos esses insetos!
 
-impnpc_dia01 Eu não tenho nada pra tratar#com você.
+impnpc_dia01 Eu não tenho nada à tratar#com você.
 impnpc_dia02 Vá embora,|||||||||||||||| sua garota estúpida!
 impnpc_dia03 @Oh,||||||||||||| esse é...@#£um cogumelo sujo...?
-impnpc_dia04 £P-por favor, me dê ele?
+impnpc_dia04 £P-porfavormedêele?
 impnpc_dia05 Deu o Cogumelo Sujo.
 impnpc_dia06 Obrigado,||||||||||| garota humana!
 impnpc_dia07 Aqui,|||||||||||| leve isso como gratidão.
@@ -415,28 +415,28 @@ askorn01_dia01 £*Tosse...*
 askorn01_dia02 £Desculpe-me, |||||||||quem é você?
 askorn01_dia03 Entendo.#|||||||||||Você é Kaho, huh?#|||||||||||#Que nome único.
 askorn01_dia04 Me chame de Askorn.##|||||||||||||Você parece desconhecer#a situação desta região.
-askorn01_dia05 Você mencionou que tua jornada #trouxe-a aqui a procura#da Rainha...
+askorn01_dia05 Você mencionou que sua jornada #a trouxe aqui, à procura#da Rainha...
 askorn01_dia06 Se você realmente pretende continuar indo#ao Reino de Karst,|||||||||| tenha cuidado.
 askorn01_dia07 Uma presença sinistra está se#envolvendo tudo.
 askorn01_dia08 Este bosque sagrado é um dos#poucos lugares intactos.
 askorn01_dia09 A Cidade de Karst é adiante.#Ainda que seja perigosa, eu devo visitá-la#a procura da minha amada.
-askorn01_dia10 Estive dormindo por centenas de anos.#||||||||||Suficiente para me estranhar com #este reino.
-askorn01_dia11 Nos meus tempos, ||||||||||||||||pessoas vinham#a esse bosque e rezavam as grandes divindades.
+askorn01_dia10 Estive dormindo por centenas de anos.#||||||||||O suficiente para me estranhar com #este reino.
+askorn01_dia11 Nos meus tempos, ||||||||||||||||pessoas vinham#a esse bosque e rezavam às grandes divindades.
 askorn01_dia12 As pessoas desse reino podem ter perdido#sua fé, ||||||||||porém ainda tenho a minha comigo.
-askorn01_dia13 Talvez fossem suas condutas hereges#que nos levou ao atual estado de eventos...?
+askorn01_dia13 Talvez tenham sido suas condutas hereges#que nos levaram ao atual estado de eventos...?
 
 askorn02_dia01 Ei,|||||||||||| Kaho!
 askorn02_dia02 Me ajude de algum jeito!
 askorn02_dia03 Obrigado.
 askorn02_dia04 Estava engaiolado aqui,||||||||||||#e temi que toda minha esperança#tivesse se esvaído.
 askorn02_dia05 Agora posso continuar procurando minha esposa.
-askorn02_dia06 Ambos morremos a muito tempo atrás,|||||||||||||| ainda assim parece que os mortos#atravessaram as fronteiras que levam a esse mundo.
-askorn02_dia07 Ainda tem muito a ser dito.||||||||||||||||||||||||#Eu planejo me reunir com ela e#e fugir dessa cidade abandonada.
+askorn02_dia06 Ambos morremos há muito tempo atrás,|||||||||||||| ainda assim parece que os mortos#atravessaram as fronteiras que levam a esse mundo.
+askorn02_dia07 Ainda tem muito a ser dito.||||||||||||||||||||||||#Eu planejo me reunir com ela e# fugir dessa cidade abandonada.
 askorn02_dia08 Eu vejo que você continua#inteira.
 askorn02_dia09 Este tipo de vestimenta#que você usa...
 askorn02_dia10 Não é algo#desta terra,|||||||||||| estou certo?
 askorn02_dia11 Não importa.
-askorn02_dia12 A este estado de decadência||||||||||||#nenhum de nós deveria estar#perdendo tempo descuidadamente.
+askorn02_dia12 Nesse estado de decadência||||||||||||#nenhum de nós deveria estar#perdendo tempo descuidadamente.
 askorn02_dia13 Vou estar por perto.#Se cuide!
 askorn02_dia14 O antigo município de prosperidade e glória#já se foi,||||||||||||||| pelo que parece.
 askorn02_dia15 Nestes tempos de necessidades,||||||||||||||| o povo não vai#lutar,||||||||||||| e nem rezar.
@@ -446,51 +446,51 @@ askorn03_dia01 @||||Minha querida Cecilia...
 askorn03_dia02 @...
 
 fishgirl_dia01 Por favor,||||||||||| você deve encontrar um jeito de me#tirar dessa prisão.
-fishgirl_dia02 Algum tipo de feitiço está se espalhando#deste reino para as regiões #oeste,||||||||||| lar do meu povo.
-fishgirl_dia03 @Por favor...|||||||||||#Não me deixe sozinha aqui...
+fishgirl_dia02 Algum tipo de feitiço está se espalhando#deste reino para as regiões do #oeste,||||||||||| lar do meu povo.
+fishgirl_dia03 @Por favor...|||||||||||#não me deixe sozinha aqui...
 fishgirl_dia04 Encontre uma forma de parar isso...
 
 nutmeg_dia01 £Huh?#|||||||Q-|||||||||||Quem é você?!||||||||||||||| E#como chegou aqui?!
 nutmeg_dia02 £Vá embora,||||||||||||| forasteiro!|||||||||||||#Agora!|||||||||||||£#Você está me assustando!!
-nutmeg_dia03 £Por quê ainda está aqui?#||||||||Q-Qual o seu desejo?!
+nutmeg_dia03 £Por quê ainda está aqui?#||||||||Qu-que é que deseja?!
 nutmeg_dia04 Hum,||||||||||||| como quiser.
-nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curador#desta Pinacoteca Real.
+nutmeg_dia05 Eu sou Nutmeg Liz,||||||||||||| c-curadora#desta Pinacoteca Real.
 nutmeg_dia06 Como te disse#antes: VÁ EMBORA.
 nutmeg_dia07 Eu queria que existisse uma razão para você#continuar por aqui,||||||||||||||||||| mas não tem.
 nutmeg_dia08 Você tem negócios#com a Rainha...?
 nutmeg_dia09 Bem,||||||||||||||| essa é nova.||||||||||||||||||||||||||#Você não percebe...
 nutmeg_dia10 Não,|||||||| deixa pra lá.
-nutmeg_dia11 Fique feliz por respirar e continuar viva.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| Afinal,||||||||||| sua hora vai chegar.
+nutmeg_dia11 Alegre-se por continuar viva e respirando.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| afinal,||||||||||| sua hora vai chegar.
 nutmeg_dia12 £Nye he he#he he he...
-nutmeg_dia13 Á esse ponto,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
+nutmeg_dia13 A essa altura,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
 
 merlot_dia01 Ah... Quem é você?#Alguém do sul das#províncias?
 merlot_dia02 Tem um certo...#ar peculiar ao seu redor.
 merlot_dia03 Por favor,|||||||||||||| junte-se a nós aqui.#||||||||||||||||||É mais seguro.
 merlot_dia04 Mesmo assim... parece que você pode#dar seu jeito. 
-merlot_dia05 O que lembramos do passado é simplesmente#figmentos de nossas memórias.
+merlot_dia05 O que lembramos do passado é simplesmente#pigmentos de nossas memórias.
 merlot_dia06 Tesouro pessoais que não são guardados#em nenhum outro lugar.
 merlot_dia07 O passado não existe...#O presente é tudo que temos.
 
 mallory_dia01 Esta construção está corrompida...
-mallory_dia02 Uma vez,|||||||||||||||||| abrigou belas exposições de arte,||||||||||||||||||| mas#agora está condenada a distorcidas#formas cheias de mal.
+mallory_dia02 Uma vez,|||||||||||||||||| abrigou belas exposições de arte,||||||||||||||||||| mas#agora está condenada a distorcidas#formas, cheias de mal.
 mallory_dia03 Estou feliz que você nos encontrou.|||||||||||||||||||#Estávamos nos escondendo aqui por#meses,||||||||||||||||||| isolados.
-mallory_dia04 Morte poderia vir a qualquer dia,||||||||||||||||||||| a qualquer minuto.#|||||||||||||||||Ninguém de nós sabia o quanto nos restava.
+mallory_dia04 A morte poderia vir a qualquer dia,||||||||||||||||||||| a qualquer minuto.#|||||||||||||||||Ninguém de nós sabia o quanto nos restava.
 mallory_dia05 É por isso que devemos fazer#cada dia valer.
 
-lupiar_dia01 Você é que tem#ocupando Fennel.
+lupiar_dia01 Você é que tem#ocupado Fennel.
 lupiar_dia02 Dê meia-volta agora,|||||||||||||| forasteiro.#||||||||||||Sua Alteza não quer ser#pertubada.
 lupiar_dia03 Quanta impudência...
 lupiar_dia04 Magnolia!
 magnolia_dia01 Eu conheço sua laia...||||||||||||||||||||||#£@*Tosse*...
-magnolia_dia02 Que nem o perdoador,||||||||||||||||||#você se ergue contra a Rainha...
+magnolia_dia02 Que nem o Perdoador,||||||||||||||||||#você se ergue contra a Rainha...
 magnolia_dia03 £@*Tosse*...||||||||||||#Cegada pela fé.
 magnolia_dia04 @£A Rainha jamais...|||||||||#te machucaria... |||||||||||||s...
 
 prudence_dia01 Você não pode me enganar.
 prudence_dia02 £Meow...£|||||||||||||||||||||#Bem-vindo ao Castelo de Karst,||||||||||||| humana.
 prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma oferenda de Lun, ||||||||||||||Eu pressuponho?
-prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez seus metódos não sejam#suficientes para nos salvar.
+prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez nem com seus metódos isto seja#suficiente para nos salvar.
 prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
 
 // Bad ending
@@ -499,20 +499,20 @@ ending_dia02 O mundo dos vivos foi infestado mais ainda#pelo espírito dos morto
 
 // Good ending
 ending_dia03 Quando a maldição do leste atingiu o#vilarejo de Lun,|||||||||||||||||||||| a sacerdotisa foi enviada#numa missão sagrada de selá-lo.
-ending_dia04 A sacerdotisa triunfou sobre a escuridão,||||||||||||||||| parando#o crescimento da maldição aprisionando dentro no seu#corpo,||||||||||||||||||| porém ela se esvaiu no processo.
-ending_dia05 Hoje em dia apenas uma vaga memória da sua história#continua,||||||||||||||||||||||||||| sendo passado como tradição.
-ending_dia06 Mesmo assim,|||||||||||||||||| seu espírito de determinação continua,#|||||||||||||||||||guiando pequenas sacerdotisas a encontrar paz.
+ending_dia04 A sacerdotisa triunfou sobre a escuridão,||||||||||||||||| parando#o crescimento da maldição e aprisionando dentro de seu#corpo,||||||||||||||||||| porém ela se esvaiu no processo.
+ending_dia05 Hoje em dia apenas uma vaga memória da sua história#continua,||||||||||||||||||||||||||| sendo passada como tradição.
+ending_dia06 Mesmo assim,|||||||||||||||||| seu espírito de determinação continua,#|||||||||||||||||||guiando pequenas sacerdotisas a encontrar a paz.
 
-dev_dia01 Bem vindo a SALA DE DESENVOLVIMENTO!#Parabéns por chegar tão longe.
+dev_dia01 Bem vindo à SALA DE DESENVOLVIMENTO!#Parabéns por chegar tão longe.
 dev_dia02 Aqui é onde você conhece#o time de desenvolvimento.
 dev_dia03 Se você deseja voltar,||||||||||||||||#vá para a esquerda.
 dev_dia04 rdein: Oi! Tomara que esteja gostando de #Momodora.
-dev_dia05 rdein: O que quer fizermos em seguida,#Espero que vocês acompanhem, também!
+dev_dia05 rdein: Seja o que fizermos em seguida,#Espero que vocês acompanhem, também!
 dev_dia06 PKBT: hã...?|||||||||||||||#minha fala na sala do desenvolvedor...?
 dev_dia07 PKBT: eu ainda não pensei em uma...
 dev_dia08 PKBT: rdein disse que eu preciso de férias...#||||||||||||||||||eu acho que eu posso dizer isso...
 dev_dia09 Hernan: Você pode conquistar qualquer coisa#desde que você acredite.
-dev_dia10 Hernan: Não desista meu amiga!#Te vejo no futuro! 
+dev_dia10 Hernan: Não desista meu amigo!#Te vejo no futuro! 
 dev_dia11 ...
 dev_dia12 notoriousKnave: £Boo!
 dev_dia13 thernz: Eu não fiz nada para esse jogo.
@@ -521,68 +521,68 @@ dev_dia13 thernz: Eu não fiz nada para esse jogo.
 item_name_01 Anel Decorado
 item_name_02 Colar do Sacrifício
 item_name_04 Campânula
-item_name_05 Amuleto Astral
+item_name_05 Talismã Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
-item_name_09 Imã
+item_name_09 Ímã
 item_name_10 Campânula Podre
-item_name_11 Lagrima de Fada
+item_name_11 Lágrima de Fadas
 item_name_12 
 item_name_13 Frasco da Impureza
-item_name_14 Maracujá
+item_name_14 Passiflora
 item_name_15 Semente de Cristal
 item_name_16 Medalha da Equivalência
-item_name_17 Tainted Missive
+item_name_17 Carta Manchada
 item_name_18 Sachê Negro
 item_name_19 
 item_name_20 
-item_name_21 Anel de Candor
+item_name_21 Anel da Sinceridade
 item_name_22 Moeda Pequena
-item_name_23 Bakman Patch
-item_name_24 Esfera de Gato
-item_name_25 Crachá Marrom
+item_name_23 Remendo de Bakman
+item_name_24 Esfera Felina
+item_name_25 Distintivo Marrom
 item_name_26 Galho Rasgado
 item_name_27 Chave do Monastério
 item_name_28 
-item_name_29 Crista de Karst
+item_name_29 Brasão de Karst
 item_name_30 
-item_name_31 Pedaço de Clareza
+item_name_31 Caco de Clareza
 item_name_32 Cogumelo Sujo
 item_name_33 
 item_name_34 Inseto de Marfim
 item_name_35 Fada Violeta
-item_name_36 Tecido Massio
+item_name_36 Lenço Macio
 item_name_37 Chave do Jardim
 item_name_38 Fio Escasso
 item_name_39 Amuleto Abençoado
 item_name_40 Flechas Pesadas
-item_name_41 Tecido Manchado de Sangue
+item_name_41 Lenço Ensanguentado
 item_name_42 Folha de Bordo
 item_name_43 Folha Fresca da Primavera
-item_name_44 Incensário de Bolso
+item_name_44 Incensório de Bolso
 item_name_45 Pedras Zodiacais
 item_name_46 Flechas Rápidas
 item_name_47 Flechas Perfurantes
-item_name_48 Ventania Selada
-item_name_49 Chave Cinza
-item_name_50 Fragmento de Crista
-item_name_51 Fragmento de Crista
-item_name_52 Fragmento de Crista
-item_name_53 Fragmento de Crista
+item_name_48 Vento Selado
+item_name_49 Chave das Cinzas
+item_name_50 Fragmento do Brasão
+item_name_51 Fragmento do Brasão
+item_name_52 Fragmento do Brasão
+item_name_53 Fragmento do Brasão
 
 item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
-item_effect_02 Efeito Passivo: aumenta o ataque em 100% com pouca vida.
-item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP por uso.
-item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro de dinhela.
+item_effect_02 Efeito Passivo: aumenta o ataque em 100% quando com pouca vida.
+item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP ao usar.
+item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro#de dinhela.
 item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
-item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por morte, mas#inimigos não irão dropar dinhelas.
-item_effect_09 Efeito Passivo: atrai dinhela.
+item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por inimigo#morto, mas inimigos não irão dropar dinhelas.
+item_effect_09 Efeito Passivo: atrai dinhela para perto do usuário.
 item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
-item_effect_11 Efeito Passivo: raises user's resistance to status ailments.
+item_effect_11 Efeito Passivo: aumenta resistência do usúario contra doenças.
 item_effect_12
-item_effect_13 Efeito Passivo: restores HP whenever user is poisoned.
+item_effect_13 Efeito Passivo: restaura HP sempre que estiver envenenado.
 item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
@@ -590,48 +590,48 @@ item_effect_17 Efeito Ativo: temporarimente aumenta o ataque em 100%,#ao custo d
 item_effect_18 Efeito Passivo: aumenta imensamente o poder de ataque,#com o risco de perder HP.
 item_effect_19 
 item_effect_20 
-item_effect_21 Efeito Passivo: emite um som perto de segredos.
+item_effect_21 Efeito Passivo: emite um som quando perto de segredos.
 item_effect_22 Item Chave.
-item_effect_23 Efeito Ativo: chama vários Blocos Bak.
-item_effect_24 Efeito Ativo: alterna entre a forma humana e de gata.
-item_effect_25 Item chave.
-item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por morte.
+item_effect_23 Efeito Ativo: chama vários Bak blocos.
+item_effect_24 Efeito Ativo: alterna entre a forma humana e felina.
+item_effect_25 Item Chave.
+item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP#por inimigo morto.
 item_effect_27 Item Chave.
 item_effect_28 Item Chave.
-item_effect_29 Item Chave. permite warping quando estiver rezando.
+item_effect_29 Item Chave. permite teleportar quando estiver rezando.
 item_effect_30 
-item_effect_31 Efeito Ativo: aumenta visibilidade de áreas escuras.
+item_effect_31 Efeito Ativo: aumenta a visibilidade de áreas escuras.
 item_effect_32 Item Chave.
 item_effect_33 
 item_effect_34 Item Chave.
 item_effect_35 Efeito Ativo: lança magia protetiva das trevas.
 item_effect_36 Efeito Ativo: cria uma zona de cura artificial.
-item_effect_37 Item chave.
+item_effect_37 Item Chave.
 item_effect_38 Efeito Ativo: lança uma poderosa explosão de energia.
 item_effect_39 Efeito Ativo: lança magia protetiva de luz.
-item_effect_40 Efeito Passivo: aumenta poder de flechas.
+item_effect_40 Efeito Passivo: aumenta o poder de flechas.
 item_effect_41 Efeito Ativo: lança magia ofensiva.
-item_effect_42 Item chave.
-item_effect_43 Item chave.
-item_effect_44 Efeito Passivo: adiciona chama as seus ataques.
-item_effect_45 Item chave.
+item_effect_42 Item Chave.
+item_effect_43 Item Chave.
+item_effect_44 Efeito Passivo: adiciona dano por chama aos seus ataques.
+item_effect_45 Item Chave.
 item_effect_46 Efeito Passivo: aumenta drasticamente a velocidade das flechas.
 item_effect_47 Efeito Passivo: flechas atravessam inimigos.
 item_effect_48 Efeito Ativo: lança magia de vento.
-item_effect_49 Item chave.
-item_effect_50 Item chave. libera um novo nível de carregamento com o arco.
-item_effect_51 Item chave. aumenta velocidade do carregamento de flechas.
-item_effect_52 Item chave. permite se esquivar no meio do ar.
-item_effect_53 Item chave. permite warping enquanto reza.
+item_effect_49 Item Chave.
+item_effect_50 Item Chave. Libera um novo nível de super-ataque com o arco.
+item_effect_51 Item Chave. Aumenta a velocidade de carregamento do#super-ataque com flechas.
+item_effect_52 Item Chave. Permite se esquivar no meio do ar.
+item_effect_53 Item Chave. Permite teleportar enquanto reza.
 
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
-item_lore_02 Colar Pequenininho.#Aqueles que o usarem encontraram força em sua#estranha benção, esperando recuperar aquilo que foi perdido.
+item_lore_02 Colar bem pequeno.#Aqueles que o usarem encontrarão força em sua#estranha bênção, esperando recuperar aquilo que foi perdido.
 item_lore_04 Flor azeda com poderes energizantes.
-item_lore_05 Velho, e decrépito amuleto.#Aumenta radicalmente sua Sorte.
+item_lore_05 #Velho e decrépito amuleto.#Aumenta radicalmente sua Sorte.
 item_lore_06 Edea foi uma pecadora que traiu seu própio povo.#Devido a suas ações, ela foi expurgada, e seu corpo enviado#para o Bosque Sagrado, longe de casa.
 item_lore_07 Peróla feita para parecer uma jóia rara de um demônio.
 item_lore_08 #Anel feito de sangue, possuindo a habilidade de#drenar as sobras dos inimigos caídos.
-item_lore_09 Pedra pecular, raramente encontrada na superfície.
+item_lore_09 Pedra peculiar, raramente encontrada na superfície.
 item_lore_10 Favorita do antigo rei de Karst.#Seu nome de batismo é mantida em absoluto segredo, para#evitar o infortúnio.
 item_lore_11 Estado sólido de uma lágrima de fada.#Levemente encantada, é sutilmente cintilante.
 item_lore_12 
@@ -640,39 +640,39 @@ item_lore_14 Flor rara, colhida do#seco Parque Whiteleaf.
 item_lore_15 Semente macia feita de cristal.#Bastante díficil de se tornar uma árvore adulta, devido a#sua delicadeza.
 item_lore_16 Medalha da província de Crominia.#Carregada por mensageiros montados em cervos,#dedicada a uma vida de grandes jornadas.
 item_lore_17 #Os seguidores de Esselin pregam o perdão, mas seus#pensamentos são maldosos e cheios de ódio.
-item_lore_18 #Sachê aplicável no própio peito.#Seu cheiro pode provocar delírio repentino.
+item_lore_18 #Sachê aplicável no próprio peito.#Seu cheiro pode provocar delírio repentino.
 item_lore_19 
 item_lore_20 
 item_lore_21 Anel geralmente procurado pelo seu valor estético.#Poucos sabem suas utilidades secretas.
 item_lore_22 Presente simples de importância subjetiva.
-item_lore_23 Objeto absolutamente sem gosto.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
-item_lore_24 Objeto de desconhecidas feitiçarias.#Parece uma bola de cristal comum.
-item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar uma coruja.
-item_lore_26 O Parque Whiteleaf, influenciado pela magia da Rainha, foi#movido em direção ao fundo da cidade.#Foi infestado por espíritos e demônios do submundo, que nem o da#bruxa imortal Lubella.   
-item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando eles foram destruídos pelo poder escuro incontrolável da Rainha.
-item_lore_28 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
-item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovida de qualquer significância.
+item_lore_23 Objeto absolutamente sem sentido.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
+item_lore_24 Objeto de feitiçaria desconhecida.#Parece uma bola de cristal comum.
+item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
+item_lore_26 #O Parque Whiteleaf, influenciado por bruxaria, foi movido# até o fundo da cidade.Foi infestado por espíritos e demônios do# submundo, que nem o da bruxa imortal Lubella.
+item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
+item_lore_28 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
+item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
 item_lore_30 
-item_lore_31 De acordo com os costumes de Karstian, estes são postos nas#tumbas como oferendas aos mortos. Acredita-se que suas#luzes guiam aqueles até a reencarnação.
+item_lore_31 De acordo com os costumes de Karst, estes são postos nas#tumbas como oferendas aos mortos. Acredita-se que suas#luzes guiam aqueles até a reencarnação.
 item_lore_32 Está escapando uma substância branca viscosa...#diabinhas adoram ela. 
 item_lore_33 
-item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de formas de#vida doentes, removendo sua enfermidão.
-item_lore_35 Substância desconhecida vazada do nada.#Os cidadões de Karst, ao serem amaldiçoados, entraram num#estado transitório,não realmente vivos mas nem completamente mortos.
+item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de formas de#vida doentes, removendo sua enfermidade.
+item_lore_35 Substância desconhecida, gerada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
 item_lore_36 Tecido encantado usado pelas freiras de Esselin em suas liturgias.
-item_lore_37 Chave coberta de musgo.#Contém um letreiro com escrita de Karstian,#porém pouco legível.
-item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, or outra coisa...
+item_lore_37 Chave coberta de musgo.#Contém um letreiro pouco legível,#com escrita de Karst.
+item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
 item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karstian.
 item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e fez parceria com o leal Lupiar.
-item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa Choir.#Temendo o poder de Crown ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu a Rainha.
+item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa#Choir.Temendo o poder de Crown ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
 item_lore_42 Folha sagrada colhida da Árvore de Lun.#Essas folhas, abençoadas pela Matriarca, são indestrutíveis.#Afiadas o bastante para purificar inimigos, é a arma principal#das sacerdortisas do oeste.
 item_lore_43 Folha verde sagrada possuidora de fortes repelentes# do que aqueles nas folhas mais comuns de Bordo. 
 item_lore_44 Recipiente encantado preenchido com carvão vegetal e incenso.
-item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou corrigir o mundo#dos vivos e dos mortos.
+item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou corrigir o mundo dos vivos e dos mortos.
 item_lore_46 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_47 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_48 Caixa de madeira usada para dominar magias divinas.#Domina Vento Robusto.
-item_lore_49 Usada para fechar as portas da Câmara de Cinder, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas para evitar outros acidentes.
-item_lore_50 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
-item_lore_51 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
-item_lore_52 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
-item_lore_53 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
+item_lore_49 Usada para fechar as portas da Câmara de Cinzas, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas#para evitar outros acidentes.
+item_lore_50 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
+item_lore_51 #Fragmento de um emblema representando o atual regime de Karst.#Quatro partes são necessárias para ter acesso às áreas que levam#aos portões do castelo.
+item_lore_52 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
+item_lore_53 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
