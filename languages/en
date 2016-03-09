@@ -117,7 +117,7 @@ sys_dia05 Talismã Astral obtido.
 sys_dia06 Pérola de Edea obtida.
 sys_dia07 Remendo de Bakman obtido.
 sys_dia08 Carta Manchada obtida.
-sys_dia09 Imã obtido.
+sys_dia09 Ímã obtido.
 sys_dia10 Você achou um Fragmento de Vitalidade!
 sys_dia11
 sys_dia12 Chave do Monastério obtida.
@@ -137,7 +137,7 @@ sys_dia25 Galho Rasgado obtido.
 sys_dia26 Fio Escasso obtido.
 sys_dia27 Inspecionar
 sys_dia28 Campânula recebida!
-sys_dia29 Distintivo marrom recebido!
+sys_dia29 Distintivo Marrom recebido!
 sys_dia30 Passiflora recebida!
 sys_dia31 MAPA COMPLETO:
 sys_dia32 Sim
@@ -149,7 +149,7 @@ sys_dia37 #Sua HP aumentou.
 sys_dia38 #Mas a sua HP já está maximizada.
 sys_dia39 ?????
 sys_dia40 Chave das Cinzas obtida.
-sys_dia41 Incensório de bolso obtido.
+sys_dia41 Incensário de Bolso obtido.
 sys_dia42 Brasão de Karst necessário para passar
 sys_dia43 Chave Cremada utilizada.
 sys_dia44 Sachê Negro obtido.
@@ -525,7 +525,7 @@ item_name_05 Talismã Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
-item_name_09 Imã
+item_name_09 Ímã
 item_name_10 Campânula Podre
 item_name_11 Lágrima de Fadas
 item_name_12 
