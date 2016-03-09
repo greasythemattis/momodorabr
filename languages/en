@@ -574,15 +574,15 @@ item_name_53 Fragmento do Brasão
 item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
 item_effect_02 Efeito Passivo: aumenta o ataque em 100% quando com pouca vida.
 item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP ao usar.
-item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro de dinhela.
+item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro#de dinhela.
 item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
-item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP#por inimigo morto, masinimigos não irão#dropar dinhelas.
+item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por#inimigo morto, mas inimigos não irão dropar dinhelas.
 item_effect_09 Efeito Passivo: atrai dinhela para perto do usuário.
 item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
 item_effect_11 Efeito Passivo: aumenta resistência do usúario contra doenças.
 item_effect_12
-item_effect_13 Efeito Passivo: restaura HP sempre que o usúario estiver#envenenado.
+item_effect_13 Efeito Passivo: restaura HP sempre que estiver envenenado.
 item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
@@ -592,10 +592,10 @@ item_effect_19
 item_effect_20 
 item_effect_21 Efeito Passivo: emite um som quando perto de segredos.
 item_effect_22 Item Chave.
-item_effect_23 Efeito Ativo: chama vários Blocos Bak.
+item_effect_23 Efeito Ativo: chama vários Bak blocos.
 item_effect_24 Efeito Ativo: alterna entre a forma humana e felina.
 item_effect_25 Item Chave.
-item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por inimigo morto.
+item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por inimigo#morto.
 item_effect_27 Item Chave.
 item_effect_28 Item Chave.
 item_effect_29 Item Chave. permite teleportar quando estiver rezando.
@@ -645,8 +645,8 @@ item_lore_19
 item_lore_20 
 item_lore_21 Anel geralmente procurado pelo seu valor estético.#Poucos sabem suas utilidades secretas.
 item_lore_22 Presente simples de importância subjetiva.
-item_lore_23 Objeto absolutamente sem gosto.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
-item_lore_24 Objeto de desconhecidas feitiçarias.#Parece uma bola de cristal comum.
+item_lore_23 Objeto absolutamente sem sentido.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
+item_lore_24 Objeto de feitiçaria desconhecida.#Parece uma bola de cristal comum.
 item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
 item_lore_26 O Parque Whiteleaf, influenciado pela magia da Rainha, foi#movido em direção ao fundo da cidade.#Foi infestado por espíritos e demônios do submundo, que nem o da#bruxa imortal Lubella.   
 item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
@@ -657,13 +657,13 @@ item_lore_31 De acordo com os costumes de Karst, estes são postos nas#tumbas co
 item_lore_32 Está escapando uma substância branca viscosa...#diabinhas adoram ela. 
 item_lore_33 
 item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de formas de#vida doentes, removendo sua enfermidade.
-item_lore_35 Substância desconhecida, vazada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
+item_lore_35 Substância desconhecida, gerada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
 item_lore_36 Tecido encantado usado pelas freiras de Esselin em suas liturgias.
 item_lore_37 Chave coberta de musgo.#Contém um letreiro pouco legível,#com escrita de Karst.
 item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
 item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karstian.
 item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e fez parceria com o leal Lupiar.
-item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa Choir.#Temendo o poder de Crown ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
+item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa#Choir.Temendo o poder de Crown ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
 item_lore_42 Folha sagrada colhida da Árvore de Lun.#Essas folhas, abençoadas pela Matriarca, são indestrutíveis.#Afiadas o bastante para purificar inimigos, é a arma principal#das sacerdortisas do oeste.
 item_lore_43 Folha verde sagrada possuidora de fortes repelentes# do que aqueles nas folhas mais comuns de Bordo. 
 item_lore_44 Recipiente encantado preenchido com carvão vegetal e incenso.
