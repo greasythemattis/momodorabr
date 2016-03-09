@@ -117,7 +117,7 @@ sys_dia05 Talismã Astral obtido.
 sys_dia06 Pérola de Edea obtida.
 sys_dia07 Remendo de Bakman obtido.
 sys_dia08 Carta Manchada obtida.
-sys_dia09 Pedra Magnética obtida.
+sys_dia09 Imã obtida.
 sys_dia10 Você achou um Fragmento de Vitalidade!
 sys_dia11
 sys_dia12 Chave do Monastério obtida.
@@ -462,7 +462,7 @@ nutmeg_dia09 Bem,||||||||||||||| essa é nova.||||||||||||||||||||||||||#Você n
 nutmeg_dia10 Não,|||||||| deixa pra lá.
 nutmeg_dia11 Alegre-se por continuar viva e respirando.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| Afinal,||||||||||| sua hora vai chegar.
 nutmeg_dia12 £Nye he he#he he he...
-nutmeg_dia13 Nesta altura,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
+nutmeg_dia13 Ha essa altura,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
 
 merlot_dia01 Ah... Quem é você?#Alguém do sul das#províncias?
 merlot_dia02 Tem um certo...#ar peculiar ao seu redor.
@@ -525,7 +525,7 @@ item_name_05 Talismã Astral
 item_name_06 Peróla de Edea
 item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
-item_name_09 Pedra Magnética
+item_name_09 Imã
 item_name_10 Campânula Podre
 item_name_11 Lagrima de Fadas
 item_name_12 
