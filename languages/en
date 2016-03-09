@@ -165,7 +165,7 @@ sys_dia53 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade
 sys_dia54 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de um novo nível de carga de arco!
 sys_dia55 Você achou um fragmento do Brasão!#Sua essência te dá a habilidade de se teleportar enquanto reza!
 sys_dia56 Dificuldade 'Insana' desbloqueada!
-sys_dia57 [Nulo]
+sys_dia57 [Nada]
  
 // Area names //
 sys_area01 Bosque Sagrado da Ordalia
@@ -204,13 +204,13 @@ sys_end10 O Fim
 sys_end11 Localização
 
 // NPC Messages //
-intro_npc_dia1 Acho que aqui#é o máximo até onde posso trazê-la.
-intro_npc_dia2 Sinto muito.|||||||||||||||||#Qualquer lugar perto da cidade#vai ser muito perigoso.
+intro_npc_dia1 Receio que aqui#é o máximo até onde posso trazê-la.
+intro_npc_dia2 Sinto muito.|||||||||||||||||#Mais perto da cidade que isso#será muito arriscado.
 intro_npc_dia3 Certamente,|||||||||||||||| isso não vai ser um problema#pra uma sacerdotisa como você.
 intro_npc_dia4 Lutar usando uma folha#deve ser complicado...
 intro_npc_dia5 Mas eu tenho fé na sua habilidade para#selar a maldição.
-intro_npc_dia6 Ela vai chegar até a sua terra também,||||||||||||||||||||||#afinal de contas.
-intro_npc_dia7 Para agora, o melhor que você pode fazer#é procurar uma audiência com a Rainha.
+intro_npc_dia6 Afinal de contas ela já se espalhou,||||||||||||||||||||||#na sua terra também.
+intro_npc_dia7 Por enquanto, o melhor que você pode fazer#é procurar uma audiência com a Rainha.
 
 spider_dia01 £U-Uguu...
 spider_dia02 £Q-quer comprar...?
@@ -219,7 +219,7 @@ newgameplus_dia01 Você gostaria de salvar#por cima do arquivo atual?
 newgameplus_dia02 Fazendo isso,||||||||||||||||||| você vai começar uma nova aventura#desde o princípio,||||||||||||||||| com algumas mudanças.
 newgameplus_dia03 Vamos lá, então!
 
-shop_dia01 Você veio daquela floresta#infestada de duendes...?
+shop_dia01 Você veio daquela floresta#infestada de diabinhos...?
 shop_dia02 Hi ha ha...#|||||||||||Interessante.
 shop_dia03 Como eu posso ajudá-la?
 shop_dia04 Valeu!
@@ -229,13 +229,13 @@ shop_dia07 Preço
 shop_dia08 Você já possui esse item.
 
 cath01_dia01 O que você tá olhando?#||||||||||Eu sou um humano,|||||||||||| como você.
-cath01_dia02 Você não me parece muito capaz#de se proteger.
+cath01_dia02 Você não me parece muito capaz#de se defender.
 cath01_dia03 Ouça o que eu digo,#procure por abrigo.
 cath01_dia04 |||||||||Meu nome é Cath.#||||||||||||||||Eu sou uma cavaleira a serviço#do reino.
-cath01_dia05 Então, você é uma sacerdotisa de Lun.#||||||||||||E tá procurando a ajuda da Rainha?
+cath01_dia05 Então, você é uma sacerdotisa de Lun.#||||||||||||E está procurando a ajuda da Rainha?
 cath01_dia06 ||||Ha.#||||Ha.#|||||||Ha.
-cath01_dia07 Você acha que ela tem interesse#na sua vila de fim de mundo?
-cath01_dia08 ||||||||||||Bom,||||||||||| aqui vão umas más notícias.
+cath01_dia07 Você acha que ela tem interesse#na sua vila nalgum fim de mundo?
+cath01_dia08 ||||||||||||Bem,||||||||||| aqui vão às más notícias.
 cath01_dia09 |||||||||||||||Eu tenho ouvido rumores sobre uma bruxa#que está por aí...
 cath01_dia10 |||||||||Ir mais a fundo na cidade#é bem arriscado.
 cath01_dia11 ||||||||||||Se você tá confiante em#ver a Rainha,||||||||||||||| meu aviso vai#até aqui.
@@ -398,7 +398,7 @@ florist_dia11 Parece que há 20#desses Insetos de Marfim#por aí...
 florist_dia12 Eles são pequenos,|||||||||||||||| mas proporcionam às minhas#plantas os nutrientes necessários.
 florist_dia13 Obrigado do fundo#do meu coração por trazer todos esses insetos!
 
-impnpc_dia01 Eu não tenho nada pra tratar#com você.
+impnpc_dia01 Eu não tenho nada à tratar#com você.
 impnpc_dia02 Vá embora,|||||||||||||||| sua garota estúpida!
 impnpc_dia03 @Oh,||||||||||||| esse é...@#£um cogumelo sujo...?
 impnpc_dia04 £P-por favor, me dê ele?
@@ -573,16 +573,16 @@ item_name_53 Fragmento do Brasão
 
 item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
 item_effect_02 Efeito Passivo: aumenta o ataque em 100% quando com pouca vida.
-item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP por uso.
+item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP ao usar.
 item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro de dinhela.
 item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
 item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
-item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por morte, mas#inimigos não irão dropar dinhelas.
+item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP#por inimigo morto, masinimigos não irão#dropar dinhelas.
 item_effect_09 Efeito Passivo: atrai dinhela para perto do usuário.
 item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
 item_effect_11 Efeito Passivo: aumenta resistência do usúario contra doenças.
 item_effect_12
-item_effect_13 Efeito Passivo: restaura HP sempre que o usúario estiver envenenado.
+item_effect_13 Efeito Passivo: restaura HP sempre que o usúario estiver#envenenado.
 item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
@@ -593,7 +593,7 @@ item_effect_20
 item_effect_21 Efeito Passivo: emite um som quando perto de segredos.
 item_effect_22 Item Chave.
 item_effect_23 Efeito Ativo: chama vários Blocos Bak.
-item_effect_24 Efeito Ativo: alterna entre a forma de humano e de felino.
+item_effect_24 Efeito Ativo: alterna entre a forma humana e felina.
 item_effect_25 Item Chave.
 item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por inimigo morto.
 item_effect_27 Item Chave.
@@ -619,13 +619,13 @@ item_effect_46 Efeito Passivo: aumenta drasticamente a velocidade das flechas.
 item_effect_47 Efeito Passivo: flechas atravessam inimigos.
 item_effect_48 Efeito Ativo: lança magia de vento.
 item_effect_49 Item Chave.
-item_effect_50 Item Chave. libera um novo nível de super-ataque com o arco.
-item_effect_51 Item Chave. aumenta a velocidade de carregamento do super-ataque com flechas.
-item_effect_52 Item Chave. permite se esquivar no meio do ar.
-item_effect_53 Item Chave. permite teleportar enquanto reza.
+item_effect_50 Item Chave. Libera um novo nível de super-ataque com o arco.
+item_effect_51 Item Chave. Aumenta a velocidade de carregamento do#super-ataque com flechas.
+item_effect_52 Item Chave. Permite se esquivar no meio do ar.
+item_effect_53 Item Chave. Permite teleportar enquanto reza.
 
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
-item_lore_02 Colar Pequenininho.#Aqueles que o usarem encontrarão força em sua#estranha bênção, esperando recuperar aquilo que foi perdido.
+item_lore_02 Colar bem pequeno.#Aqueles que o usarem encontrarão força em sua#estranha bênção, esperando recuperar aquilo que foi perdido.
 item_lore_04 Flor azeda com poderes energizantes.
 item_lore_05 Velho e decrépito amuleto.#Aumenta radicalmente sua Sorte.
 item_lore_06 Edea foi uma pecadora que traiu seu própio povo.#Devido a suas ações, ela foi expurgada, e seu corpo enviado#para o Bosque Sagrado, longe de casa.
@@ -647,11 +647,11 @@ item_lore_21 Anel geralmente procurado pelo seu valor estético.#Poucos sabem su
 item_lore_22 Presente simples de importância subjetiva.
 item_lore_23 Objeto absolutamente sem gosto.#Pertenceu a Moka, o servo demônio#da bruxa morta-viva Lubella.
 item_lore_24 Objeto de desconhecidas feitiçarias.#Parece uma bola de cristal comum.
-item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar uma coruja.
+item_lore_25 Uma bijuteria, inútil como parece, ainda guarda um#lugar especial em seu coração.#Este pequeno brilhante crachá em particular parece retratar# uma coruja.
 item_lore_26 O Parque Whiteleaf, influenciado pela magia da Rainha, foi#movido em direção ao fundo da cidade.#Foi infestado por espíritos e demônios do submundo, que nem o da#bruxa imortal Lubella.   
 item_lore_27 Abre as portas do andar de cima do Convento#de Esselin.#O Convento e seus anexos foram abanadonados#quando destruídos pelo poder obscuro incontrolável da Rainha.
-item_lore_28 Fragmento de um emblema representando o atual regime de#Karstian.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
-item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovida de qualquer significância.
+item_lore_28 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso as áreas#que levam aos portões do castelo.
+item_lore_29 Libera acesso ao Castelo de Karst.#Um projeto que uma vez unia as Pessoas, as Divindades,#a Coroa. Agora desprovido de qualquer significância.
 item_lore_30 
 item_lore_31 De acordo com os costumes de Karst, estes são postos nas#tumbas como oferendas aos mortos. Acredita-se que suas#luzes guiam aqueles até a reencarnação.
 item_lore_32 Está escapando uma substância branca viscosa...#diabinhas adoram ela. 
@@ -659,7 +659,7 @@ item_lore_33
 item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de formas de#vida doentes, removendo sua enfermidade.
 item_lore_35 Substância desconhecida, vazada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
 item_lore_36 Tecido encantado usado pelas freiras de Esselin em suas liturgias.
-item_lore_37 Chave coberta de musgo.#Contém um letreiro com escrita Karstian,#porém pouco legível.
+item_lore_37 Chave coberta de musgo.#Contém um letreiro pouco legível,#com escrita de Karst.
 item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
 item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karstian.
 item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e fez parceria com o leal Lupiar.
@@ -667,11 +667,11 @@ item_lore_41 Tecido encharcado com o sangue 'santo' da Arque-Sacerdotisa Choir.#
 item_lore_42 Folha sagrada colhida da Árvore de Lun.#Essas folhas, abençoadas pela Matriarca, são indestrutíveis.#Afiadas o bastante para purificar inimigos, é a arma principal#das sacerdortisas do oeste.
 item_lore_43 Folha verde sagrada possuidora de fortes repelentes# do que aqueles nas folhas mais comuns de Bordo. 
 item_lore_44 Recipiente encantado preenchido com carvão vegetal e incenso.
-item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou corrigir o mundo#dos vivos e dos mortos.
+item_lore_45 Objeto pessoal da Rainha de Karst.#Corrompida pela imensa ambição, a Rainha enlouqueceu#e tentou corrigir o mundo dos vivos e dos mortos.
 item_lore_46 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_47 Tipo especial de flecha usada pela Arquearia de Karst.
 item_lore_48 Caixa de madeira usada para dominar magias divinas.#Domina Vento Robusto.
-item_lore_49 Usada para fechar as portas da Câmara de Cinzas, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas para evitar outros acidentes.
+item_lore_49 Usada para fechar as portas da Câmara de Cinzas, um anexo#do Convento de Esselin.#As câmaras, antigamente um armazém de incensários, foram#parcialmente queimadas e depois fechadas#para evitar outros acidentes.
 item_lore_50 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
 item_lore_51 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
 item_lore_52 Fragmento de um emblema representando o atual regime de#Karst.#Quatro partes são necessárias para ter acesso às áreas#que levam aos portões do castelo.
