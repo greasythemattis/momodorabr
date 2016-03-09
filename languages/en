@@ -490,7 +490,7 @@ magnolia_dia04 @£A Rainha jamais...|||||||||#te machucaria... |||||||||||||s...
 prudence_dia01 Você não pode me enganar.
 prudence_dia02 £Meow...£|||||||||||||||||||||#Bem-vindo ao Castelo de Karst,||||||||||||| humana.
 prudence_dia03 Este vestido negro...|||||||||||||||||||||||||||||||||#Uma oferenda de Lun, ||||||||||||||Eu pressuponho?
-prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez seus metódos não sejam#suficientes para nos salvar.
+prudence_dia04 £Meow...£|||||||||||||||||||||#Talvez nem com seus metódos seja#suficiente para nos salvar.
 prudence_dia05 £Meow...£|||||||||||||||||||||#Ha ha ha ha...
 
 // Bad ending
@@ -512,7 +512,7 @@ dev_dia06 PKBT: hã...?|||||||||||||||#minha fala na sala do desenvolvedor...?
 dev_dia07 PKBT: eu ainda não pensei em uma...
 dev_dia08 PKBT: rdein disse que eu preciso de férias...#||||||||||||||||||eu acho que eu posso dizer isso...
 dev_dia09 Hernan: Você pode conquistar qualquer coisa#desde que você acredite.
-dev_dia10 Hernan: Não desista meu amiga!#Te vejo no futuro! 
+dev_dia10 Hernan: Não desista meu amigo!#Te vejo no futuro! 
 dev_dia11 ...
 dev_dia12 notoriousKnave: £Boo!
 dev_dia13 thernz: Eu não fiz nada para esse jogo.
@@ -527,7 +527,7 @@ item_name_07 Peróla Enfadonha
 item_name_08 Anel Vermelho
 item_name_09 Pedra Magnética
 item_name_10 Campânula Podre
-item_name_11 Lagrima de Fada
+item_name_11 Lagrima de Fadas
 item_name_12 
 item_name_13 Frasco da Impureza
 item_name_14 Passiflora
