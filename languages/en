@@ -53,7 +53,7 @@ sys_ui32 VOCÊ MORREU
 sys_ui33 TENTAR NOVAMENTE
  
 // Pause menu
-sys_ui34 EQUIPMENTO
+sys_ui34 EQUIPAMENTO
 sys_ui35 ITENS CHAVE
 sys_ui36 MAPA
 sys_ui37 CONFIGURAÇÕES
