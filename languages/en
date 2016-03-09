@@ -149,7 +149,7 @@ sys_dia37 #Sua HP aumentou.
 sys_dia38 #Mas a sua HP já está maximizada.
 sys_dia39 ?????
 sys_dia40 Chave das Cinzas obtida.
-sys_dia41 Incensório obtido.
+sys_dia41 Incensório de bolso obtido.
 sys_dia42 Brasão de Karst necessário para passar
 sys_dia43 Chave Cremada utilizada.
 sys_dia44 Sachê Negro obtido.
@@ -560,7 +560,7 @@ item_name_40 Flechas Pesadas
 item_name_41 Lenço Ensanguentado
 item_name_42 Folha de Bordo
 item_name_43 Folha Fresca da Primavera
-item_name_44 Incensário de Bolso
+item_name_44 Incensório de Bolso
 item_name_45 Pedras Zodiacais
 item_name_46 Flechas Rápidas
 item_name_47 Flechas Perfurantes
