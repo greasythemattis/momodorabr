@@ -594,7 +594,7 @@ item_effect_21 Efeito Passivo: emite um som perto de segredos.
 item_effect_22 Item Chave.
 item_effect_23 Efeito Ativo: chama vários Blocos Bak.
 item_effect_24 Efeito Ativo: alterna entre a forma humana e de gata.
-item_effect_25 Item chave.
+item_effect_25 Item Chave.
 item_effect_26 Efeito Passivo: restaura uma pequena quantidade de HP por morte.
 item_effect_27 Item Chave.
 item_effect_28 Item Chave.
@@ -606,23 +606,23 @@ item_effect_33
 item_effect_34 Item Chave.
 item_effect_35 Efeito Ativo: lança magia protetiva das trevas.
 item_effect_36 Efeito Ativo: cria uma zona de cura artificial.
-item_effect_37 Item chave.
+item_effect_37 Item Chave.
 item_effect_38 Efeito Ativo: lança uma poderosa explosão de energia.
 item_effect_39 Efeito Ativo: lança magia protetiva de luz.
 item_effect_40 Efeito Passivo: aumenta poder de flechas.
 item_effect_41 Efeito Ativo: lança magia ofensiva.
-item_effect_42 Item chave.
-item_effect_43 Item chave.
+item_effect_42 Item Chave.
+item_effect_43 Item Chave.
 item_effect_44 Efeito Passivo: adiciona chama as seus ataques.
-item_effect_45 Item chave.
+item_effect_45 Item Chave.
 item_effect_46 Efeito Passivo: aumenta drasticamente a velocidade das flechas.
 item_effect_47 Efeito Passivo: flechas atravessam inimigos.
 item_effect_48 Efeito Ativo: lança magia de vento.
-item_effect_49 Item chave.
-item_effect_50 Item chave. libera um novo nível de carregamento com o arco.
-item_effect_51 Item chave. aumenta velocidade do carregamento de flechas.
-item_effect_52 Item chave. permite se esquivar no meio do ar.
-item_effect_53 Item chave. permite teleportar enquanto reza.
+item_effect_49 Item Chave.
+item_effect_50 Item Chave. libera um novo nível de carregamento com o arco.
+item_effect_51 Item Chave. aumenta velocidade do carregamento de flechas.
+item_effect_52 Item Chave. permite se esquivar no meio do ar.
+item_effect_53 Item Chave. permite teleportar enquanto reza.
 
 item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O pedaço vem de um império do#centro-oeste, notável pelo seu esculpimento.
 item_lore_02 Colar Pequenininho.#Aqueles que o usarem encontraram força em sua#estranha benção, esperando recuperar aquilo que foi perdido.
