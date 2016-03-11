@@ -259,7 +259,7 @@ cath02_dia10 Para se juntar a mim, você|||||||||||#vai ter de recuperar um bras
 cath02_dia11 Ele foi dividido em quatro partes.#Um dos fragmentos deve estar#por aqui...
 cath02_dia12 Parece que nós não temos#muita escolha.
 cath02_dia13 Nós temos que decapitar a#tão amada Rainha.
-cath02_dia14 Di-diga,|||||||||||| talvez nós devessemos sair mais#quando tudo isso acabar...
+cath02_dia14 Di-diga,|||||||||||| talvez nós devêssemos sair mais#quando tudo isso acabar...
 cath02_dia15 Argh!
 cath02_dia16 É a primeira vez que vejo uma#folha sagrada em ação.
 cath02_dia17 Certamente é um jeito interessante#de combater inimigos...
@@ -280,7 +280,7 @@ church_dia01 Uma recém-convertida?#|||||Você procura a salvação?
 church_dia02 Você pode atingir a salvação em vez#da condenação, doando para o Santo#Esselin.
 church_dia03 Um dízimo de 15 dinhelas#é preciso para isso.
 church_dia04 Nós somos gratos.#Que você encontre paz.
-church_dia05 Você não tem o valor#mínimo que nós requerimos.
+church_dia05 Você não tem o valor#mínimo que nós requeremos.
 church_dia06 Que o senhor tenha#piedade de você.
 church_dia07 -Apenas pessoal autorizado-
 church_dia08 ...
@@ -293,7 +293,7 @@ church_dia13 Você está segura conosco.
 choir_dia01 Nossas orações foram ouvidas.||||||||||||||||#A Bruxa da Ruína e seus#demônios foram derrotados.
 choir_dia02 Pouco a pouco,|||||||||||||||||||| a voz dos deuses#atravessou esse reino#envolto em trevas.
 choir_dia03 Ainda,||||||||||||| para esse convento ir#contra o desejo de Sua Alteza...#É uma desgraça, em nome do nosso senhor.
-choir_dia04 Sua bondade não tem limites.#||||||||||||||Se você desejar,||||||||||||||||||| ela protejerá até mesmo#uma herege de Lun, como você.
+choir_dia04 Sua bondade não tem limites.#||||||||||||||Se você desejar,||||||||||||||||||| ela protegerá até mesmo#uma herege de Lun, como você.
 choir_dia05 Na sagrada proteção do Senhor,#||||||||deixe-nos rezar pelos que já foram,#||||||||||||||e por aqueles perdidos na escuridão.
 choir_dia06 @Por favor,||||||||||||||| meu Senhor,||||||||||||| tenha piedade#da alma de minha pobre irmã.#||||||||||||||||||Para ela poder descansar em paz...
 choir_dia07 Esse lenço que você tem...
@@ -465,7 +465,7 @@ nutmeg_dia09 Bem,||||||||||||||| essa é nova.||||||||||||||||||||||||||#Você n
 nutmeg_dia10 Não,|||||||| deixa pra lá.
 nutmeg_dia11 Alegre-se por continuar viva e respirando.||||||||||||||||||||||||||||||#Não se preocupe,||||||||||||| afinal,||||||||||| sua hora vai chegar.
 nutmeg_dia12 £Nye he he#he he he...
-nutmeg_dia13 A essa altura,|||||||||||||||| estamos andandos#num caminho incerto.#Que traz o melhor e#o pior de nós.
+nutmeg_dia13 A essa altura,|||||||||||||||| estamos andando#num caminho incerto.#Que traz o melhor e#o pior de nós.
 
 merlot_dia01 Ah... Quem é você?#Alguém do sul das#províncias?
 merlot_dia02 Tem um certo...#ar peculiar ao seu redor.
@@ -482,7 +482,7 @@ mallory_dia04 A morte poderia vir a qualquer dia,||||||||||||||||||||| a qualque
 mallory_dia05 É por isso que devemos fazer#cada dia valer.
 
 lupiar_dia01 Você é que tem#ocupado Fennel.
-lupiar_dia02 Dê meia-volta agora,|||||||||||||| forasteiro.#||||||||||||Sua Alteza não quer ser#pertubada.
+lupiar_dia02 Dê meia-volta agora,|||||||||||||| forasteiro.#||||||||||||Sua Alteza não quer ser#perturbada.
 lupiar_dia03 Quanta impudência...
 lupiar_dia04 Magnolia!
 magnolia_dia01 Eu conheço sua laia...||||||||||||||||||||||#£@*Tosse*...
@@ -525,8 +525,8 @@ item_name_01 Anel Decorado
 item_name_02 Colar do Sacrifício
 item_name_04 Campânula
 item_name_05 Talismã Astral
-item_name_06 Peróla de Edea
-item_name_07 Peróla Enfadonha
+item_name_06 Pérola de Edea
+item_name_07 Pérola Enfadonha
 item_name_08 Anel Vermelho
 item_name_09 Ímã
 item_name_10 Campânula Podre
@@ -578,18 +578,18 @@ item_effect_01 Efeito Passivo: aumenta frames de invencibilidade e defesa.
 item_effect_02 Efeito Passivo: aumenta o ataque em 100% quando com pouca vida.
 item_effect_04 Efeito Ativo: restaura uma pequena quantidade de HP ao usar.
 item_effect_05 Efeito Passivo: inimigos de vez em quando vão dropar o dobro#de dinhela.
-item_effect_06 Efeito Passivo: concede propriedades venenonas a suas flechas.
-item_effect_07 Efeito Passivo: concede propriedades venenonas a suas flechas.
+item_effect_06 Efeito Passivo: concede propriedades venenosas a suas flechas.
+item_effect_07 Efeito Passivo: concede propriedades venenosas a suas flechas.
 item_effect_08 Efeito Passivo: restaura uma pequena quantidade de HP por inimigo#morto, mas inimigos não irão dropar dinhelas.
 item_effect_09 Efeito Passivo: atrai dinhela para perto do usuário.
-item_effect_10 Efeito Ativo: inflinge veneno ao usúario.
-item_effect_11 Efeito Passivo: aumenta resistência do usúario contra doenças.
+item_effect_10 Efeito Ativo: inflinge veneno ao usuário.
+item_effect_11 Efeito Passivo: aumenta resistência do usuário contra doenças.
 item_effect_12
 item_effect_13 Efeito Passivo: restaura HP sempre que estiver envenenado.
-item_effect_14 Efeito Ativo: restaura completamente o HP do usúario.
+item_effect_14 Efeito Ativo: restaura completamente o HP do usuário.
 item_effect_15 Efeito Ativo: temporariamente aumenta o ataque em 50%.
 item_effect_16 Efeito Passivo: lentamente restaura o HP.
-item_effect_17 Efeito Ativo: temporarimente aumenta o ataque em 100%,#ao custo de HP.
+item_effect_17 Efeito Ativo: temporariamente aumenta o ataque em 100%,#ao custo de HP.
 item_effect_18 Efeito Passivo: aumenta imensamente o poder de ataque,#com o risco de perder HP.
 item_effect_19 
 item_effect_20 
@@ -631,8 +631,8 @@ item_lore_01 Esculpido de minerais encontrados nas profundezas#do Rio Verde. O p
 item_lore_02 Colar bem pequeno.#Aqueles que o usarem encontrarão força em sua#estranha bênção, esperando recuperar aquilo que foi perdido.
 item_lore_04 Flor azeda com poderes energizantes.
 item_lore_05 #Velho e decrépito amuleto.#Aumenta radicalmente sua Sorte.
-item_lore_06 Edea foi uma pecadora que traiu seu própio povo.#Devido a suas ações, ela foi expurgada, e seu corpo enviado#para o Bosque Sagrado, longe de casa.
-item_lore_07 Peróla feita para parecer uma jóia rara de um demônio.
+item_lore_06 Edea foi uma pecadora que traiu seu próprio povo.#Devido a suas ações, ela foi expurgada, e seu corpo enviado#para o Bosque Sagrado, longe de casa.
+item_lore_07 Pérola feita para parecer uma jóia rara de um demônio.
 item_lore_08 #Anel feito de sangue, possuindo a habilidade de#drenar as sobras dos inimigos caídos.
 item_lore_09 Pedra peculiar, raramente encontrada na superfície.
 item_lore_10 Favorita do antigo rei de Karst.#Seu nome de batismo é mantido em absoluto segredo, para#evitar o infortúnio.
@@ -663,7 +663,7 @@ item_lore_34 Pequeno, inseto inofensivo.#Esta criatura alimenta-se do corpo de f
 item_lore_35 Substância desconhecida, gerada do nada.#Os cidadãos de Karst, ao serem amaldiçoados, entraram num#estado transitório; não realmente vivos, mas nem completamente mortos.
 item_lore_36 Tecido encantado usado pelas freiras de Esselin em suas liturgias.
 item_lore_37 Chave coberta de musgo.#Contém um letreiro pouco legível,#com escrita de Karst.
-item_lore_38 Frida, considerada inútil, foi jogada  ao sepúlcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
+item_lore_38 Frida, considerada inútil, foi jogada  ao sepulcro#debaixo da capital. É quase impossível saber se ela#tomou a forma humana, ou outra coisa...
 item_lore_39 Ferramente protetora dada as crianças da linhagem real#de Karst.
 item_lore_40 Arma de Magnolia, capitã da Arquearia de Karst.#Nascida na floresta, ela se juntou a Ordem de Cavaleiros#de Karst e se tornou parceira da leal Lupiar.
 item_lore_41 Tecido encharcado com o sangue 'santo' da Arquisacerdotisa#.Temendo o poder de Coroa ela aderiu o lado da Rainha#e a adorou como uma deusa. Diferente da sua irmã mais velha,#Fennel continuou leal a sua fé e resistiu à Rainha.
