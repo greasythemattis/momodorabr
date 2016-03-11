@@ -83,6 +83,8 @@ sys_ui58 BALANÇAR DE TELA
 sys_ui59 PADRÃO
 sys_ui60 LIGADO
 sys_ui61 DESLIGADO
+sys_ui62 ALTERAR TECLAS
+sys_ui63 VIBRAÇÃO
  
 // Tutorial Messages //
 sys_tut01 Movimento
@@ -105,6 +107,7 @@ sys_tut17 Item
 sys_tut18 Mudar de Item
 sys_tut19 Menu
 sys_tut20 Pule novamente no ar para atingir novos limites!
+sys_tut21 Mapa
  
 // Misc System Messages 2 //
 save_dia Progresso Salvo!
